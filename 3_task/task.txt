@@ -1,0 +1,21 @@
+1. 帮助文档【每人从自己负责的那类文件中选择500翻译量即可】
+位置：1_source\software\2_docbook\en
+鲍怡然：App_开头文件
+陈宇婷：HowTo_开头文件
+罗思亓：Menus_开头文件
+苏芮冉：OmegaT4_开头文件
+赵明睿：Windows_开头文件
+
+2. UI
+位置：1_source\software\1_UI\Bundle.properties
+UI部分翻译properties文件【不要翻译3_task中的ui.txt!!!】
+每人负责的部分已在ui_xxx.txt中标出
+
+3. 网页
+位置：1_source\website\en
+
+鲍怡然：documentation.html
+陈宇婷：download.html
+罗思亓：index.html
+苏芮冉：resource.html
+赵明睿：about.html+en.yml
