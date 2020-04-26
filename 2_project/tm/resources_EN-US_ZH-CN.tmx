@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>其他 OmegaT 资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>分词器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>在模糊匹配和词汇表匹配中提供对词形变化的识别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>LanguageTool 插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>检查语言错误（文体、语法等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Scripting plug-in</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>脚本插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Enables external scripts to access OmegaT's functionality. (Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>允许外部脚本访问 OmegaT 的功能（不要与“文本导出”功能混淆，后者也允许在 OmegaT 中使用脚本，但却是在更基础的层面上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Okapi Filters Plugin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Okapi 过滤器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>提供用于处理其他文件格式的过滤器，包括 Trados TTX。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Apertium 插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>将Apertium 机器翻译功能集成到 OmegaT 中 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>浏览器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>快速访问网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>网站支持可以用 Groovy 编写脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>重要事项：要使用插件，您可能需要安装 OmegaT 的最新版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>工具程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>“Aligner”对齐器工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>用 Python 编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Dmitri Gabinski 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>“Bligner”对齐器工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>用 Python/Perl 编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Didier Briel 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>用于合并两个或多个 TMX 文件的 Java 命令行脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Henry Pijffers 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>用来从 TMX 文件中删除“多余”翻译单元的 Java 命令行脚本：删除没有译文片段或译文片段与原文片段完全相同的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Henry Pijffers 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>工具程序，用来将 Trados TagEditor（TTX）文件转换为一种中间格式，使其可以在 OmegaT 中进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>这系列脚本对于熟悉 tcl/tk 的脚本编写者可能会比较有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other users are advised to use the <bpt i="0" x="0">&lt;a0&gt;</bpt>Okapi Filters Plugin<ept i="0">&lt;/a0&gt;</ept> instead.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>其他用户则建议改用 <bpt i="0" x="0">&lt;a0&gt;</bpt>Okapi 过滤器插件<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Toxic was contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Toxic 由 Marc Prior 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Toxic for Windows</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>适用于 Windows 的 Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Toxic 的 Windows 可执行版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>适用于 Linux 的 Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Toxic 的 Linux 二进制版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Toxic 脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Toxic 的脚本版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>与平台无关、需要 tcl/tk。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>用于从纯文本文件(e.g. computer source code)中提取供翻译的文本以便在 OmegaT 中进行翻译的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>需要 tcl/tk。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Marc Prior 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>TKount text counting utility.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>TKount 文本字数统计工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>需要 tcl/tk、Abiword 和 pdftotext。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>已在 Linux 上测试过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Marc Prior 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>即 ONline DIctionary LOokup TOol（在线词典查找工具）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>需要 Linux、w3m 和 tcl/tk（后面两者通常都随 Linux 提供）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Marc Prior 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wordfast TMX file converter</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Wordfast TMX 文件转换器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Converts translation memories in TMX format generated by Wordfast to a form which can be read by OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>将 Wordfast 生成的 TMX 格式的翻译记忆库转换为 OmegaT 能读取的形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>由 Dmitri Gabinski 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Miscellaneous resources</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>其他资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Training course</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>培训课程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT training course.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>OmegaT 培训课程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>包含有供改编用的示范性学习手册和培训师指导，以及样例资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>可在 OmegaT 中使用的替换图标选集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>示例文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>用来测试与演示 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Localization resources</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>本地化资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Localization TMX repository</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>本地化 TMX 仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>供本地化人员使用的 OmegaT 文档及本网站本地化的 TMX 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>本网站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>本网站的文件，以便捷打包的形式提供给想要将其本地化的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>第三方软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>与 OmegaT 一起使用的第三方软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>可在 OmegaT 中使用的拼写词典的在线存储库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Microsoft Office 的免费（兼容）替代产品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Okapi 框架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>一整套工具程序，用于准备文件以便在 CAT 工具中进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>可以让大量 OmegaT 无法直接处理的文件格式变得可以翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>有详细教程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>图形界面的对齐工具，用于根据过往文本及其译文生成翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>智能的命令行对齐工具，用于根据过往文本及其译文生成翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Samuel Murray's scripts and procedures</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Samuel Murray 的脚本与流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>Samuel Murray 的脚本/流程的描述和链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>虽然其中部分流程在其他平台上也可能可以使用，但这些脚本大多数都需要 Microsoft Windows。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg><ph x="0">&lt;br0/&gt;</ph>这些脚本/流程可以让你做到：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>跳过包含特定字符集合的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>从项目文件中提取所有原文文本，将其合并为单个大文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>创建一个 TMX 文件，其中包含所有字符串且原文文本与译文文本完全相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>使用 OmegaT 进行翻译时往词汇表内添加词汇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>为所有片段添加编号，让它们变得全都“独特”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>删除标签以外的所有文本，或者文本以外的所有标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050924Z">
+        <seg>拼写检查（各种流程）</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

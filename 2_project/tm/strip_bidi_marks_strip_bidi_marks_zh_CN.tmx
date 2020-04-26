@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051821Z">
+        <seg>剥除双向标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051821Z">
+        <seg>删除当前译文中的双向控制符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051821Z">
+        <seg>剥除当前片段中的双向标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051821Z">
+        <seg>请在打开项目后重试。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

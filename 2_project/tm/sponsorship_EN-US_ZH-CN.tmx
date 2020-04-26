@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051101Z">
+        <seg>赞助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051101Z">
+        <seg>OmegaT 项目的大部分工作是在自愿的基础上完成的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051101Z">
+        <seg>但是，某些程序功能是由商业赞助商委托的，他们随后又将这些功能回赠给了社区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051101Z">
+        <seg>迄今为止，这些赞助商有：</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

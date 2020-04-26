@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 的点评</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 简介（2.5.0）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Arno Peters 和 Mariëtte van Drunen（荷兰语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 2.3.0 点评。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Václav Hejda（捷克语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 1.6 RC5 点评。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Yutaka Kachi（日语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 说明书（2008）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Asier Sarasua Garmendia（巴斯克语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 1.6.1_1 点评。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Takashi Miyamoto（日语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 点评，2008 年 4 月 11 日。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Corinne McKay（英语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 点评，2010 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>作者：Leo Viëtor（荷兰语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Review of OmegaT, 2009.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 点评，2009 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>在 PCW.GR 网站上（希腊文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 简介，2009 年（越南语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>Sébastien Guillardeau 的学位论文，2010 年（德语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contains a comprehensive description of OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>其中包含对 OmegaT 的全面说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mini-review of OmegaT, 2012.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>OmegaT 小点评，2012。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT on Wikipedia</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>Wikipedia 上的 OmegaT 词条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT on Wikipedia <bpt i="0" x="0">&lt;s0&gt;</bpt>25 languages<ept i="0">&lt;/s0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T051016Z">
+        <seg>Wikipedia 上的 OmegaT 词条 <bpt i="0" x="0">&lt;s0&gt;</bpt>25 种语言<ept i="0">&lt;/s0&gt;</ept></seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

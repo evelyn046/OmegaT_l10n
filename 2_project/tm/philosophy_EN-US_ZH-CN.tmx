@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>开源的理念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>OmegaT是开源的应用程序和项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>这意味着 OmegaT 的源代码是免费提供的，且 OmegaT 的许可证为其用户提供了极大的使用自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>它不仅可以免费使用，而且用户还可以自由地对其复制和分发。这种自由的一个重要方面是用户也可以修改程序的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>对于开源运动来说，用户拥有按需修改程序的自由比无需付费更加重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it. This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>这被称为“free as in speech（指“自由”，即 free speech（言论自由）中 free 的含义）”，于此相对的是“free as in beer（指“免费”，即 free beer（免费啤酒）中 free 的含义）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>OmegaT 项目理念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>在 OmegaT 项目中可以找到相同的精神。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>用户可以自由地下载和使用该程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>反过来，用户可以自由地、并且确实地被鼓励为项目贡献（但没有任何义务）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>用户怎样做取决于他们自己。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>例如，并没有什么东西来阻止用户为 OmegaT 制作自己的用户手册或演示视频，并且，如果项目认为它有长远作用，那么 OmegaT 的用户社区很可能使用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>在日常任务方面，从事 OmegaT 项目的志愿者通常会有充分地自由来决定其贡献形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>当前的 OmegaT 项目协调员将这种不干涉的方法称为“授权无政府状态”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>在一些领域，需要一定程度的协调。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>例如，任何人都可以自由地对 OmegaT 的程序代码做出更改，并将这些更改提交给开发团队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>但是，只有当认为它们对 OmegaT 用户有益的情况下，开发团队才会将它们接纳入 OmegaT 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the <bpt i="0" x="0">&lt;a0&gt;</bpt>Softpedia "100% FREE" guarantee<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>这样可以确保用户的利益得到保护，而又让 OmegaT 被授予<bpt i="0" x="0">&lt;a0&gt;</bpt> Softpedia“100％ 自由”保证<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>OmegaT 的开发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>与 OmegaT 项目的其他地方一样，OmegaT 的编程工作由志愿者完成，并且根据项目理念，他们对 OmegaT 的开发和改进最终由他们自己决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>但是，用户在项目中有相当大空间可以提出改进建议并影响未来的发展进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first of these is the <bpt i="0" x="0">&lt;a0&gt;</bpt>OmegaT user group<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>其中首要的是 <bpt i="0" x="0">&lt;a0&gt;</bpt>OmegaT 用户组<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>这是 OmegaT 用户社区的主要关注点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>鼓励 OmegaT 的新用户将各种建议提在这里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>原因之一是所需的功能可能已经实现，或者可能由于某些原因而无法实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>也可能已经存在方便的替代功能或解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>关于变更的详细技术讨论则最好直接与 OmegaT 的开发人员沟通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For this purpose, a dedicated <bpt i="0" x="0">&lt;a0&gt;</bpt>developers' mailing list<ept i="0">&lt;/a0&gt;</ept> exists.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>为此，有一个专门的<bpt i="0" x="0">&lt;a0&gt;</bpt>开发者邮件列表<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>这样更易于管理大量建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The procedure is termed an <bpt i="0" x="0">&lt;a0&gt;</bpt>"RFE" (Request for Feature Enhancement) and is managed here<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>此流程称为<bpt i="0" x="0">&lt;a0&gt;</bpt>“RFE”（Request for Feature Enhancement，功能改进建议），在此处管理<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>已经建立了数以百计的 RFE，其中有许多已得以实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>但是，提交 RFE 并不意味着所想要的功能或改进会自动得以实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>它是否被采纳首先取决于开发团队是否认为其对 OmegaT 有利，其次则是是否有开发人员愿意来完成其实现工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>如果请求者对开发工作进行资助，则 OmegaT 的开发人员（他们全部都是志愿者）可能会更愿意去实现某个 RFE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;a0&gt;</bpt>Sponsorship of development has already resulted in the addition of certain features.<ept i="0">&lt;/a0&gt;</ept> If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg><bpt i="0" x="0">&lt;a0&gt;</bpt>赞助开发已经促成了一些功能的添加<ept i="0">&lt;/a0&gt;</ept>如果您愿意对实现您所需功能的工作进行资助，请私下与开发团队联系来获取报价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT. As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050834Z">
+        <seg>在 OmegaT 内实现外部开发者所委托的开发也是可能的，虽然是自由开发，但任何对 OmegaT 的更改都必须有益于应用程序及用户的原则依然适用。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

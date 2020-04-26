@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>下面提供了各种版本的 OmegaT 的链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are confused about which version to download, you can use the <bpt i="0" x="0">&lt;a0&gt;</bpt>Download selector<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果你不确定应当下载哪个版本，可以使用<bpt i="0" x="0">&lt;a0&gt;</bpt>下载选择器<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>安装类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>操作系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>传统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>现有 OmegaT 用户所熟悉的由用户安装的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果不确定，请选择此版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Web Start version is the "install and forget" version.<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>Web Start 版本是“安装后不管（install and forget）”版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="1" x="1">&lt;s1&gt;</bpt>The benefit<ept i="1">&lt;/s1&gt;</ept>: once launched, future updates of the Web Start version will be installed automatically on your computer.<ph x="2">&lt;br2/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg><ph x="0">&lt;br0/&gt;</ph><bpt i="1" x="1">&lt;s1&gt;</bpt>优点<ept i="1">&lt;/s1&gt;</ept>：一旦启动，Web Start 版本未来的更新都会自动安装到你的计算机上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="3" x="3">&lt;s3&gt;</bpt>The drawback<ept i="3">&lt;/s3&gt;</ept>: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg><ph x="2">&lt;br2/&gt;</ph><bpt i="3" x="3">&lt;s3&gt;</bpt>缺点<ept i="3">&lt;/s3&gt;</ept>：目前，这个版本不能和插件一起使用，因此并非所有功能都可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>用于在 Windows系统上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>用于在 Mac OS X 上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>用于在 Linux 系统上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>其他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>用于在其他操作系统（例如 FreeBSD 和 Solaris）上安装。<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="1" x="1">&lt;i1&gt;</bpt>OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.<ept i="1">&lt;/i1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg><bpt i="1" x="1">&lt;i1&gt;</bpt>OmegaT 可以安装在任何能够运行 Java 运行时环境 1.6 版的操作系统上。<ept i="1">&lt;/i1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>选择下载自带 Java 运行时环境（JRE）的 OmegaT 还是不带 JRE 的 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果在 Windows 系统上已经安装了合适的 JRE，选择“不带 JRE”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果没有安装，或者你不确定，选择“带 JRE”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 通常可以在任何能安装合适版本的 Java 运行环境（JRE）的 Linux 系统上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 目前需要 JRE 1.6 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>要检查你的 Linux 系统上安装了哪个版本的 JRE（如果有），请打开控制台（命令行窗口）并输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果你不确定系统上是否已经安装有合适的 JRE，你依然可以下载并安装 OmegaT 的带 JRE 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>此版本的 JRE 将仅由 OmegaT 局部使用，不会出现冲突、覆盖、或卸载任何其他 JRE 安装的情况，因此可以安装使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>带 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>“附带电池”的 OmegaT 版本，具有自己的 Java 运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>此版本需要更长时间来下载、需要更多硬盘空间，但您可以确信它能运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果不确定，请选择此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>带 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>内含 64-bit 版本 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>“附带电池”的 OmegaT 版本，具有自己的 Java 运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>此版本需要更长时间来下载、需要更多硬盘空间，但您可以确信它能运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果不确定，请选择此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>不带 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果您的电脑系统上已经安装了使用的 Java 运行环境，您可选择该不包含 JRE 的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT的“标准”版本包含完整的用户手册（至少有英语版本）并且通常已经过一段时间测试来消除各种 Bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>首次使用的用户推荐使用此版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>最新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>顾名思义，Omegat 的“最新”版本要更时新一些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>但是，用户手册可能不再是最新的（因此可能会让人困惑），并且可能会出现小 Bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>尽管如此，OmegaT 的“最新”版本通常非常稳定，推荐任何已经拥有 OmegaT 经验的用户使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>根据您的选择，我们推荐您使用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If this version is not available, you can try to <bpt i="0" x="0">&lt;a0&gt;</bpt>download the unsigned version<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果该版本不可用，可尝试<bpt i="0" x="0">&lt;a0&gt;</bpt>下载未签名版本<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>运行要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>系统要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 可在任何已安装或可安装相应 JRE（Java 运行环境）的系统上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 现在自带 JRE，无需单独获取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 已在 Windows（从 98 开始的所有版本）、Micintosh OS X 及 Linux 上成功安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>Microsoft Office XML 格式的文件可以直接在 OmegaT 中翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>旧的 Microsoft Word、Excel 和 Powerpoint 格式的文件可以在转换到对等的当前 Microsoft Office 格式后翻译，或者也可在 OpenOffice.org 或 LibreOffice（同样免费）中转换成 Office Open XML 格式后进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>要获取 OpenOffice.org 或 LibreOffice，请点击左方“第三方软件”按钮链接到相应网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>用户要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 的安装或使用并不是特别困难，但确实需要阅读并遵循说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果您对阅读说明有一种天生的厌恶，并且您对新软件的处理方法是点击您看到的每个按钮，直到出现类似于所需效果的东西，那么 OmegaT 可能不适合您。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>在继续之前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>你有没有考虑过向 OmegaT 捐款？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>虽然这个软件是免费的，但如果你觉得 OmegaT 很有用并且想表达你的感谢，你可以向我们的 Paypal 账户捐款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>USD <bpt i="0" x="0">&lt;a0&gt;</bpt>Donate<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>美金 <bpt i="0" x="0">&lt;a0&gt;</bpt>捐款<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>标准版本 — {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>标准版本需要 Java {{site.data.versions.standard.java_version}}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>它通常已投入使用一段时间，因此已得以验证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>其文档，至少英文文档，通常是足够新的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>详细说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{% if platform.link != null %} <bpt i="0" x="0">&lt;a0&gt;</bpt>Download<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>{% if platform.link != null %} <bpt i="0" x="0">&lt;a0&gt;</bpt>下载<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{% else %} <bpt i="0" x="0">&lt;a0&gt;</bpt>Download<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>{% else %} <bpt i="0" x="0">&lt;a0&gt;</bpt>下载<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>最新版本 - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>最新版本需要Java {{site.data.versions.latest.java_version}}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>它是比标准版本更新的版本，包括后者中不存在的新功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>最新版本通常相当稳定可用，但可能会有一些 Bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>文档，尤其是新功能的文档，将不如标准版本中那么全面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>已经拥有 OmegaT 经验的用户往往更喜欢最新版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>详细说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{% if platform.link != null %} <bpt i="0" x="0">&lt;a0&gt;</bpt>Download<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>{% if platform.link != null %} <bpt i="0" x="0">&lt;a0&gt;</bpt>下载<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{% else %} <bpt i="0" x="0">&lt;a0&gt;</bpt>Download<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>{% else %} <bpt i="0" x="0">&lt;a0&gt;</bpt>下载<ept i="0">&lt;/a0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>开发者版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>“master”版本是前沿的“alpha”版本，仍处于开发中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>预构建的二进制文件以 Nightly Builds 的形式呈现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>详细说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>过往版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can still find <bpt i="0" x="0">&lt;a0&gt;</bpt>older, superseded versions<ept i="0">&lt;/a0&gt;</ept> of OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>您仍可获取 OmegaT 的<bpt i="0" x="0">&lt;a0&gt;</bpt>较旧、已被取代的版本<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>过往版本是已被取代的旧版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>对于大多数用户来说，这些并不重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>但是，某些用户可能会面临某些限制（由其操作系统或 Java 版本强加）从而导致首选某个旧版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>带/不带 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>OmegaT 需要你的电脑上已安装 Java 运行环境（JRE）才能运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果您确信计算机上已安装了合适版本的 JRE，则可以下载不带 JRE 的 OmegaT 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>下载会更快，安装需要的硬盘空间会更少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>在这种情况下，请不要选择默认版本；选择不同的版本（例如标准版或最新版），然后选择标记为“不包含 Java”的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果您的计算机上已经安装了 JRE 而您又安装带 JRE 的 OmegaT 版本，OmegaT 的 JRE 会单独安装，不会与之冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>因此，安装带 JRE 的 OmegaT 版本总是安全的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果您不确定是否具有合适版本的 JRE，请选择具有 JRE 的版本（或默认版本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Linux users<ept i="0">&lt;/s0&gt;</ept>: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Linux 用户<ept i="0">&lt;/s0&gt;</ept>：大多数 Linux 发行版都提供了 Java 运行环境，但是一些开源实现无法正常地和 OmegaT 一起运行（尽管这可能不会立即出现）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>如果您不熟悉 Linux，我们建议您选择带 JRE 的 OmegaT 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>更有经验的 Linux 用户可能更喜欢在系统级安装 Oracle（之前是 Sun）JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>签名/未签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>适用于 Mac OS X 的 OmegaT 有签名和未签名两种版本；它们在功能上是完全相同的，但首选签名版本，因为系统会将其识别为由已知开发者发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>发布签名版本可能会有延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see <bpt i="0" x="0">&lt;a0&gt;</bpt>how to open an app from an unidentified developer<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>着急的用户也可改用未签名版本；如果您在启动应用时遇到问题，请参考<bpt i="0" x="0">&lt;a0&gt;</bpt>如何打开未认证开发者的应用<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>签名/未签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>适用于 Mac OS X 的 OmegaT 有签名和未签名两种版本；它们在功能上是完全相同的，但首选签名版本，因为系统会将其识别为由已知开发者发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>发布签名版本可能会有延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see <bpt i="0" x="0">&lt;a0&gt;</bpt>how to open an app from an unidentified developer<ept i="0">&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>着急的用户也可改用未签名版本；如果您在启动应用时遇到问题，请参考<bpt i="0" x="0">&lt;a0&gt;</bpt>如何打开未认证开发者的应用<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>Web Start 版本提供了另一种在电脑上安装 OmegaT 的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>使用此版本，将自动安装后续的更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>在安装过程中，根据操作系统不同，您可能会收到若干安全警告。<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The certificate is signed by <bpt i="1" x="1">&lt;a1&gt;</bpt>PnS Concept Sarl<ept i="1">&lt;/a1&gt;</ept>, a French registered company.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>证书由法国注册公司<bpt i="1" x="1">&lt;a1&gt;</bpt>PnS Concept Sarl <ept i="1">&lt;/a1&gt;</ept>签署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>您给予该版本的权限（可能会被描述为“对计算机的无限制访问”）与您赋予本地版本的权限并无不同，即，可访问计算机的硬盘驱动器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>要安装 Web start 版本，电脑上需要已安装有 Java 1.3 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>隐私信息：OmegaT Java Web Start 不会将您的任何信息保存到 OmegaT 的 Web 服务器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>应用程序在您的计算机上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>您的文档和翻译记忆库都保留在您的计算机上，OmegaT 项目无法访问您的作品或信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>“master”（alpha）版本反映了最新的开发状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>只推荐专业开发人员和测试人员使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>它也可以用 git 命令获取：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>Sourceforge 上提供了定期构建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>用户并不需要源代码包，它仅供开发人员使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050646Z">
+        <seg>可在相应编译版本的文件夹中找到源代码包。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

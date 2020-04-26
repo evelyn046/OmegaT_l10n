@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT <bpt i="0" x="0">&lt;s0&gt;</bpt>the free translation memory tool<ept i="0">&lt;/s0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT <bpt i="0" x="0">&lt;s0&gt;</bpt>免费翻译记忆工具<ept i="0">&lt;/s0&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;a0&gt;</bpt>Download<ept i="0">&lt;/a0&gt;</ept> <bpt i="1" x="1">&lt;a1&gt;</bpt>Get Started<ept i="1">&lt;/a1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg><bpt i="0" x="0">&lt;a0&gt;</bpt>下载<ept i="0">&lt;/a0&gt;</ept> <bpt i="1" x="1">&lt;a1&gt;</bpt>入门<ept i="1">&lt;/a1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT 入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Video by <bpt i="0" x="0">&lt;a0&gt;</bpt>CATguruEN<ept i="0">&lt;/a0&gt;</ept> (Dominique Pivard)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>视频上传者：<bpt i="0" x="0">&lt;a0&gt;</bpt>CATguruEN<ept i="0">&lt;/a0&gt;</ept>（Dominique Pivard）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>OmegaT<ept i="0">&lt;/s0&gt;</ept> is a free translation memory application that works on Windows, macOS, Linux... It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>OmegaT<ept i="0">&lt;/s0&gt;</ept> 是免费的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>它并不会替你翻译！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>（执行此操作的软件称为“机器翻译”，需要去他处找寻。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>专业功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>扩展传播</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>同时处理多个多文件项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>同时使用多个翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>带词形变化识别的用户词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>可处理超过 30 种文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>Microsoft Word、Excel、Power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>XHTML 和 HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>开放文档格式（LibreOffice、OpenOffice.org）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>MediaWiki（维基百科）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>……和近 30 种其他文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>强大的工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>Unicode（UTF-8）支持：可用于非拉丁字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>支持从右向左的语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>完备的拼写检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>兼容其他翻译记忆应用程序（TMX、TTX、TXML、XLIFF、SDLXLIFF）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>与 Google 翻译的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT 屏幕截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>OmegaT<ept i="0">&lt;/s0&gt;</ept> is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>OmegaT<ept i="0">&lt;/s0&gt;</ept> 有多种不同版本可供选择，以满足各种用户需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>要找到最适合您的版本，请点击以下链接进入下载选择器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>或者，如果你已经知道想要下载哪个版本，请点击按钮以概览 OmegaT 的各种版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>下载概览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt><bpt i="1" x="1">&lt;a1&gt;</bpt>{{site.data.versions.standard.name}}<ept i="1">&lt;/a1&gt;</ept><ept i="0">&lt;/s0&gt;</ept> Standard Version</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt><bpt i="1" x="1">&lt;a1&gt;</bpt>{{site.data.versions.standard.name}}<ept i="1">&lt;/a1&gt;</ept><ept i="0">&lt;/s0&gt;</ept> 标准版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt><bpt i="1" x="1">&lt;a1&gt;</bpt>{{site.data.versions.latest.name}}<ept i="1">&lt;/a1&gt;</ept><ept i="0">&lt;/s0&gt;</ept> Latest Version</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt><bpt i="1" x="1">&lt;a1&gt;</bpt>{{site.data.versions.latest.name}}<ept i="1">&lt;/a1&gt;</ept><ept i="0">&lt;/s0&gt;</ept> 最新版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>用户头像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>对于我们这些追求高效而非复杂的人来说，它是完美的伙伴；词汇表、自动完成和自动翻译使我在文学翻译方面的工作更加高效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>Diego Merino - 英语 &gt; 西班牙语译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>ODFAuthors 和 LibreOffice 的意大利语译者对于可以使用这样一款好工具来处理 LibreOffice 社区的工作感到很满足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>Valter Mura -英语 &gt; 意大利语译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>用户头像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>我作为专业译者已经使用 OmegaT 超过 10 年，在早期因其易用性和极其有用的论坛受益匪浅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>它有着丰富的功能、整洁的界面，最重要的是持续且正规的开源开发！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>Robert Corner，Laue-Langevin 研究所，法国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>你和 OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT不仅是一款产品；它是一个激动人心的项目，你可以参与其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT 是一款自由软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>这意味着像您这样的用户可以免费下载并使用，只有极少的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>你同样可以自由地将其复制并传给其他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT 是开源软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>这意味着如果您想，可以修改 OmegaT 以满足您自己的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>对于开源软件的拥护者来说，这种自由比免于付费更重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>编程确实是最重要的，没有编程就不会有程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>但是编程并不是唯一的工作内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>以下所列的工作领域，欢迎更多志愿者的加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>文档写作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;a0&gt;</bpt>Documentation<ept i="0">&lt;/a0&gt;</ept> is very important.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg><bpt i="0" x="0">&lt;a0&gt;</bpt>文档<ept i="0">&lt;/a0&gt;</ept> 非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>正在阅读的各位中有许多都曾翻译过很多用户文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>你有想过自己撰写点用户文档吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>这真的会让人大开眼界！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>本地化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>归功于过往翻译人员的工作，OmegaT 的用户界面及帮助文本已经被翻译成多种语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>这意味着只剩下几千种语言了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>将 OmegaT 本地化为其他语言是一项持续的工作，因为一直都在增加新的特性和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please contact the <bpt i="0" x="0">&lt;a0&gt;</bpt>OmegaT Localization Co-ordinator<ept i="0">&lt;/a0&gt;</ept> for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>请联系 <bpt i="0" x="0">&lt;a0&gt;</bpt>OmegaT 本地化协调人员<ept i="0">&lt;/a0&gt;</ept>来获取本地化/翻译 OmegaT 所涉及的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>用户可以做的最有用的事情之一就是……使用 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>发现无法使用的功能或者文档中的缺陷时，请告知我们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>宣传</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>你曾为你的专业协会期刊写过文章吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>如果还没，为什么不写一篇文章讨论 OmegaT 的使用呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>捐赠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a <bpt i="0" x="0">&lt;a0&gt;</bpt>donation<ept i="0">&lt;/a0&gt;</ept> on our Paypal account.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>如果你觉得 OmegaT 很有用，并且想要表达感谢，可以向我们的 Paypal 账号<bpt i="0" x="0">&lt;a0&gt;</bpt>捐赠<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>编程（Java）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>OmegaT 是用 Java 编写的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the <bpt i="0" x="0">&lt;a0&gt;</bpt>source code<ept i="0">&lt;/a0&gt;</ept> under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>如果你是程序员又刚好懂 Java，请查看<bpt i="0" x="0">&lt;a0&gt;</bpt>源代码<ept i="0">&lt;/a0&gt;</ept>中 docs_devel 文件夹内的文档来了解如何开始研发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>编程（非 Java）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>如果你会其他编程语言，可以编写代码来支持核心应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>已经有用 Javascript、Groovy 和 Tcl/Tk 等语言所编写的此类辅助性代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>我听进去了，但是我完全不懂编程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>好吧，考虑学一下不？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>如果你已经相当熟悉计算机，并选择一种简单易懂的脚本语言，例如 Javascript 或Tcl/Tk，可以在几周内就通过自学来写出简单却有用的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050749Z">
+        <seg>持续专业发展（Continuing Professional Development）在当下可是个热词！</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

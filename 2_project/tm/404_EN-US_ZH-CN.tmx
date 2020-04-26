@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T044238Z">
+        <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T044238Z">
+        <seg>我们找不到您要查找的页面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can go to the <bpt i="0" x="0">&lt;a0&gt;</bpt>home page<ept i="0">&lt;/a0&gt;</ept> and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T044238Z">
+        <seg>您可以前往<bpt i="0" x="0">&lt;a0&gt;</bpt>主页<ept i="0">&lt;/a0&gt;</ept>，希望在那里能找到您需要的信息。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

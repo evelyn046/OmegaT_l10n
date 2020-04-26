@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User group</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>用户组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>OmegaT 拥有非常活跃、极为支持的、多语言的用户组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This is the <bpt i="0" x="0">&lt;a0&gt;</bpt>recommended support channel<ept i="0">&lt;/a0&gt;</ept>, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>强烈建议用户加入<bpt i="0" x="0">&lt;a0&gt;</bpt>推荐的支持渠道<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>邮件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>OmegaT还有以下邮件列表与跟踪器，它们托管在 Sourceforge 上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>OmegaT 开发人员的邮件列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>此邮件列表针对的是关于功能和开发的更技术性的讨论，适用于 OmegaT 的开发人员和其他相关方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>此邮件列表适用于 OmegaT 的本地化人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>Bug、功能建议和文档问题是在 Sourceforge 上通过以下跟踪系统处理的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>未在用户组和/或邮件列表上提出问题之前，请不要使用这些跟踪系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>问题/Bug 跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>功能建议跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>文档跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>社交网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>OmegaT 在各种社交网络上都有存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>Facebook 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please contact the <bpt i="0" x="0">&lt;a0&gt;</bpt>OmegaT project manager<ept i="0">&lt;/a0&gt;</ept> regarding any point not covered above.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>任何上面未涵盖的点，请联系<bpt i="0" x="0">&lt;a0&gt;</bpt> OmegaT 项目经理<ept i="0">&lt;/a0&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For support requests, use the <bpt i="1" x="1">&lt;a1&gt;</bpt>recommended support channel<ept i="1">&lt;/a1&gt;</ept>.<ph x="2">&lt;br2/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg>对于支持请求，请使用<bpt i="1" x="1">&lt;a1&gt;</bpt>推荐的支持渠道<ept i="1">&lt;/a1&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please contact the <bpt i="3" x="3">&lt;a3&gt;</bpt>webmaster<ept i="3">&lt;/a3&gt;</ept> for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20200426T050240Z">
+        <seg><ph x="2">&lt;br2/&gt;</ph>关于网站有任何问题请联系<bpt i="3" x="3">&lt;a3&gt;</bpt>网站管理员<ept i="3">&lt;/a3&gt;</ept>。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
