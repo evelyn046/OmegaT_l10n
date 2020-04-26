@@ -1,0 +1,64 @@
+global:
+  title: OmegaT——免费的翻译记忆工具
+  description: OmegaT由Java编写，是一款面向专业译员的开源翻译记忆软件
+
+menu:
+  languages: 语言
+  about: 关于
+  documentation: 文档
+  contact: 联系
+  download: 下载
+  resources: 资源
+  support: 支持
+
+footer:
+  connect: 链接
+  omegat_project: OmegaT项目
+  documentation: 文档
+
+titles:
+  404: 页面不存在
+  about: 关于
+  contact: 联系
+  support: 支持
+  documentation: 文档
+  download: 下载
+  home: OmegaT--免费的翻译记忆工具
+  philosophy: 理念
+  resources: 资源
+  manual: 手册
+  tutorials: 教程
+  howto: 指南
+  reviews: 评论
+  sponsorship: 赞助
+  howtos:
+     compatibility: 兼容性
+     compatibility_deja_vu: 指南 - OmegaT和Déjà Vu的兼容
+     compiling_from_source: 指南 - 从源码编译OmegaT
+     docx: 指南 - 在OmegaT中翻译Word2007格式的文件
+     export_uncleaned_rtf: 指南 - 从OmegaT导出 Trados 的 uncleaned RTF 格式文件
+     google_translate: 指南 - 在OmegaT中使用谷歌翻译
+     iceni_infix: 指南 - 使用Iceni Infix和OmegaT翻译PDF文件
+     linux: Linux环境下的OmegaT指南
+     localizing_omegat: 指南 - 用你的语言翻译OmegaT
+     ms_translator: 指南 - 在OmegaT中使用微软翻译
+     new_filter: 指南 - 创建新的文件筛选器
+     preview: 指南 - 给OmegaT添加预览功能
+     priorview: 指南 - "Priorview"预览工具
+     prop12m: 传送和一对多匹配指南
+     spelling: 指南 - 拼写检查
+     text_export: 指南 - 使用OmegaT 文本输出功能 (脚本界面)
+     tokenizer: 指南 - 使用OmegaT的分词器
+
+# Platforms name
+windows_jre: 有JRE的Windows
+windows_jre64b: 有64位JRE的Windows
+windows_nojre: 没有JRE的Windows
+osx_signed: OS X Notarized
+osx_unsigned: OS X Unsigned
+linux_jre: Linux with JRE
+linux_jre64b: Linux with 64-bit JRE
+nojre: Cross-platform without JRE
+webstart: Web Start
+source: 源代码
+
