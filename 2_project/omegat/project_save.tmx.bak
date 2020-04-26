@@ -1,15 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#get-started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113029Z" creationid="lsq" creationdate="20200426T113029Z">
+        <seg>#开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112923Z" creationid="lsq" creationdate="20200426T112923Z">
+        <seg>关于(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112844Z" creationid="lsq" creationdate="20200426T112844Z">
+        <seg>对齐文件(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112918Z" creationid="lsq" creationdate="20200426T112918Z">
+        <seg>退出前确认(&amp;A)</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071553Z" creationid="HUAWEI" creationdate="20200426T071553Z">
         <seg>将此字体应用到表格数据（项目文件、统计等等）(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112907Z" creationid="lsq" creationdate="20200426T112907Z">
+        <seg>自动在词典中查找片段文本(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112853Z" creationid="lsq" creationdate="20200426T112853Z">
+        <seg>编辑器(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112916Z" creationid="lsq" creationdate="20200426T112916Z">
+        <seg>启用历史完成(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112856Z" creationid="lsq" creationdate="20200426T112856Z">
+        <seg>词汇表(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112922Z" creationid="lsq" creationdate="20200426T112922Z">
+        <seg>帮助(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112903Z" creationid="lsq" creationdate="20200426T112903Z">
+        <seg>忽略大小写不同的命中（例如 FOO 和 foo）(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112827Z" creationid="lsq" creationdate="20200426T112827Z">
+        <seg>最近变更(&amp;L)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112840Z" creationid="lsq" creationdate="20200426T112840Z">
+        <seg>匹配统计数据(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112846Z" creationid="lsq" creationdate="20200426T112846Z">
+        <seg>选项(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112920Z" creationid="lsq" creationdate="20200426T112920Z">
+        <seg>首选项(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112919Z" creationid="lsq" creationdate="20200426T112919Z">
+        <seg>恢复主窗口(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112854Z" creationid="lsq" creationdate="20200426T112854Z">
+        <seg>片段分割(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112911Z" creationid="lsq" creationdate="20200426T112911Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112913Z" creationid="lsq" creationdate="20200426T112913Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112837Z" creationid="lsq" creationdate="20200426T112837Z">
+        <seg>统计数据(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112733Z" creationid="lsq" creationdate="20200426T112733Z">
+        <seg>工具(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112922Z" creationid="lsq" creationdate="20200426T112922Z">
+        <seg>用户手册(&amp;U)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113048Z" creationid="lsq" creationdate="20200426T113048Z">
+        <seg>（执行此操作的软件称为“机器翻译”，需要去他处找寻。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113108Z" creationid="lsq" creationdate="20200426T113108Z">
+        <seg>……和近 30 种其他文件格式大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113227Z" creationid="lsq" creationdate="20200426T113227Z">
+        <seg>&lt;a0&gt;文档&lt;/a0&gt; 非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113030Z" creationid="lsq" creationdate="20200426T113030Z">
+        <seg>&lt;a0&gt;下载&lt;/a0&gt; &lt;a1&gt;入门&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105538Z" creationid="lsq" creationdate="20200426T105538Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;  会记住处理过的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113158Z" creationid="lsq" creationdate="20200426T113158Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; 最新版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113156Z" creationid="lsq" creationdate="20200426T113156Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; 标准版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113042Z" creationid="lsq" creationdate="20200426T113042Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是免费的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113118Z" creationid="lsq" creationdate="20200426T113118Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 有多种不同版本可供选择，以满足各种用户需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113216Z" creationid="lsq" creationdate="20200426T113216Z">
+        <seg>它有着丰富的功能、整洁的界面，最重要的是持续且正规的开源开发！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112912Z" creationid="lsq" creationdate="20200426T112912Z">
+        <seg>自动完成(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110024Z" creationid="lsq" creationdate="20200426T110024Z">
+        <seg>关于...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112919Z" creationid="lsq" creationdate="20200426T112919Z">
+        <seg>访问配置文件夹(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111159Z" creationid="lsq" creationdate="20200426T111159Z">
+        <seg>访问配置文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112134Z" creationid="lsq" creationdate="20200426T112134Z">
+        <seg>访问项目内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +334,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104523Z" creationid="lsq" creationdate="20200426T104523Z">
+        <seg>创建词汇表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110038Z" creationid="lsq" creationdate="20200426T110038Z">
+        <seg>允许您激活/停用提供的机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113121Z" creationid="lsq" creationdate="20200426T113121Z">
+        <seg>或者，如果你已经知道想要下载哪个版本，请点击按钮以概览 OmegaT 的各种版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113223Z" creationid="lsq" creationdate="20200426T113223Z">
+        <seg>许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073222Z" creationid="HUAWEI" creationdate="20200426T073222Z">
         <seg>分析字符串 - 已完成 {0} / {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112914Z" creationid="lsq" creationdate="20200426T112914Z">
+        <seg>自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110457Z" creationid="lsq" creationdate="20200426T110238Z">
+        <seg>自动补全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105921Z" creationid="lsq" creationdate="20200426T105743Z">
+        <seg>在历史记录中回溯...</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +406,86 @@ Buy another drink</seg>
         <seg>调酒师大声叫：
 你的页面找不到，
 小子再买杯饮料！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113225Z" creationid="lsq" creationdate="20200426T113225Z">
+        <seg>以下所列的工作领域，欢迎更多志愿者的加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113224Z" creationid="lsq" creationdate="20200426T113224Z">
+        <seg>但是编程并不是唯一的工作内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104627Z" creationid="lsq" creationdate="20200426T104627Z">
+        <seg>将译文片段中高亮选定的文本的按所选选项（小写、大写、标题式大小写或句子式大小写）改变大小写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112735Z" creationid="lsq" creationdate="20200426T112735Z">
+        <seg>检查问题(&amp;I)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110559Z" creationid="lsq" creationdate="20200426T110559Z">
+        <seg>勾选 &lt;g0&gt;历史完成&lt;/g0&gt; 后，输入开头几个字母就会显示出建议的单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111041Z" creationid="lsq" creationdate="20200426T111023Z">
+        <seg>勾选&lt;g0&gt;历史预测&lt;/g0&gt; 后，输入开头几个字母后就会显示出其后面的常用搭配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112836Z" creationid="lsq" creationdate="20200426T112836Z">
+        <seg>检查当前文档问题(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110030Z" creationid="lsq" creationdate="20200426T110030Z">
+        <seg>检查更新...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110236Z" creationid="lsq" creationdate="20200426T110236Z">
+        <seg>如果你希望词典能够展示根词汇相同的词语，勾选&lt;g0&gt;为词典条目使用模糊匹配&lt;/g0&gt; 选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110031Z" creationid="lsq" creationdate="20200426T110031Z">
+        <seg>检查是否已经发布了更新版本的 </seg>
       </tuv>
     </tu>
     <tu>
@@ -90,10 +514,202 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111357Z" creationid="lsq" creationdate="20200426T111357Z">
+        <seg>点击Wikipedia 页面的 &lt;g0&gt;编辑&lt;/g0&gt; 标签卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111241Z" creationid="lsq" creationdate="20200426T111241Z">
+        <seg>点击其中之一会保存并关闭当前项目然后打开另一个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T072017Z" creationid="HUAWEI" creationdate="20200426T072017Z">
         <seg>关闭(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111734Z" creationid="lsq" creationdate="20200426T111734Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111807Z" creationid="lsq" creationdate="20200426T111807Z">
+        <seg>提交原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111944Z" creationid="lsq" creationdate="20200426T111944Z">
+        <seg>提交译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113111Z" creationid="lsq" creationdate="20200426T113111Z">
+        <seg>兼容其他翻译记忆应用程序（TMX、TTX、TXML、XLIFF、SDLXLIFF）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112042Z" creationid="lsq" creationdate="20200426T112042Z">
+        <seg>将当前项目转换为 MED 包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111324Z" creationid="lsq" creationdate="20200426T111324Z">
+        <seg> 选择文件后复制到&lt;f0&gt;原文&lt;/f0&gt;  文件夹，然后重新载入项目以载入新文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111242Z" creationid="lsq" creationdate="20200426T111242Z">
+        <seg>将文件复制到原文文件夹...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111432Z" creationid="lsq" creationdate="20200426T111432Z">
+        <seg>复制该页面的URL（以 &lt;g0&gt;action=edit&lt;/g0&gt;结束) 然后粘贴到&lt;a1&gt;OmegaT&lt;/a1&gt;中。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111512Z" creationid="lsq" creationdate="20200426T111512Z">
+        <seg>复制文本并将其粘贴到 Wikipedia 页面的翻译版本中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073400Z" creationid="HUAWEI" creationdate="20200426T073400Z">
+        <seg>无法在 {0} 创建项目目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104717Z" creationid="lsq" creationdate="20200426T104717Z">
+        <seg>创建替代译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112036Z" creationid="lsq" creationdate="20200426T112036Z">
+        <seg>创建当前译文文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104523Z" creationid="lsq" creationdate="20200426T104523Z">
+        <seg> 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112041Z" creationid="lsq" creationdate="20200426T112041Z">
+        <seg>创建 MED 项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112019Z" creationid="lsq" creationdate="20200426T112019Z">
+        <seg>创建译文文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111209Z" creationid="lsq" creationdate="20200426T111209Z">
+        <seg>创建远程 OmegaT 项目的本地副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111208Z" creationid="lsq" creationdate="20200426T111208Z">
+        <seg>创建并打开新项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112038Z" creationid="lsq" creationdate="20200426T112038Z">
+        <seg>为当前正在翻译的文档创建对应的译文文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112024Z" creationid="lsq" creationdate="20200426T112024Z">
+        <seg>根据你的翻译创建译文文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073347Z" creationid="HUAWEI" creationdate="20200426T073347Z">
+        <seg>正在创建译文文档：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104721Z" creationid="lsq" creationdate="20200426T104721Z">
+        <seg>将译文定义为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104720Z" creationid="lsq" creationdate="20200426T104720Z">
+        <seg>删除译文并将片段设置为未译</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,10 +722,122 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112905Z" creationid="lsq" creationdate="20200426T112905Z">
+        <seg>词典(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110041Z" creationid="lsq" creationdate="20200426T110041Z">
+        <seg>词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113206Z" creationid="lsq" creationdate="20200426T113206Z">
+        <seg>Diego Merino - 英语 &gt; 西班牙语译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112857Z" creationid="lsq" creationdate="20200426T112857Z">
+        <seg>显示 TBX 词汇表的上下文描述(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112057Z" creationid="lsq" creationdate="20200426T112057Z">
+        <seg>展示 &lt;l0&gt;项目属性&lt;/l0&gt; 对话框以编辑项目语言和文件夹位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110026Z" creationid="lsq" creationdate="20200426T110026Z">
+        <seg>显示版权、制作人员和授权信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110029Z" creationid="lsq" creationdate="20200426T110029Z">
+        <seg>显示当前日志文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110028Z" creationid="lsq" creationdate="20200426T110028Z">
+        <seg>显示每个新版本的新功能、改进和修复的 Bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113226Z" creationid="lsq" creationdate="20200426T113226Z">
+        <seg>文档写作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064218Z" creationid="HUAWEI" creationdate="20200426T064218Z">
         <seg>文档经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113117Z" creationid="lsq" creationdate="20200426T113117Z">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111326Z" creationid="lsq" creationdate="20200426T111326Z">
+        <seg>下载 MediaWiki 页面...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113154Z" creationid="lsq" creationdate="20200426T113154Z">
+        <seg>下载概览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113134Z" creationid="lsq" creationdate="20200426T113134Z">
+        <seg>下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111208Z" creationid="lsq" creationdate="20200426T111208Z">
+        <seg>下载团队项目...</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +850,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103242Z" creationid="lsq" creationdate="20200426T103229Z">
+        <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111147Z" creationid="lsq" creationdate="20200426T111147Z">
+        <seg>编辑器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -130,6 +874,14 @@ Your help page not found</seg>
         <seg>灵魂的空虚无界
 永世痛苦的暗夜
 找不到你的帮助页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112917Z" creationid="lsq" creationdate="20200426T112917Z">
+        <seg>启用历史预测(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +942,50 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
+        <seg>导出所选部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
+        <seg>导出所选部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073358Z" creationid="HUAWEI" creationdate="20200426T073358Z">
+        <seg>无法创建项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073304Z" creationid="HUAWEI" creationdate="20200426T073304Z">
         <seg>遇到致命错误 - 正在使用“.recover”备份扩展名保存项目文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112852Z" creationid="lsq" creationdate="20200426T112852Z">
+        <seg>文件过滤器(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111043Z" creationid="lsq" creationdate="20200426T111043Z">
+        <seg>文件过滤器...</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +1030,78 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113222Z" creationid="lsq" creationdate="20200426T113222Z">
+        <seg>对于开源软件的拥护者来说，这种自由比免于付费更重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105945Z" creationid="lsq" creationdate="20200426T105530Z">
+        <seg>在历史记录中前进...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113050Z" creationid="lsq" creationdate="20200426T113050Z">
+        <seg>模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113033Z" creationid="lsq" creationdate="20200426T113033Z">
+        <seg>OmegaT 入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111240Z" creationid="lsq" creationdate="20200426T111240Z">
+        <seg>可以访问最后编辑的十个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112135Z" creationid="lsq" creationdate="20200426T112135Z">
+        <seg>可以访问项目的各个文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110039Z" creationid="lsq" creationdate="20200426T110039Z">
+        <seg>词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105043Z" creationid="lsq" creationdate="20200426T105043Z">
+        <seg>转到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110020Z" creationid="lsq" creationdate="20200426T110020Z">
+        <seg>帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
@@ -250,10 +1114,170 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112917Z" creationid="lsq" creationdate="20200426T112917Z">
+        <seg>历史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112915Z" creationid="lsq" creationdate="20200426T112915Z">
+        <seg>历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112916Z" creationid="lsq" creationdate="20200426T112916Z">
+        <seg>历史预测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113215Z" creationid="lsq" creationdate="20200426T113215Z">
+        <seg>我作为专业译者已经使用 OmegaT 超过 10 年，在早期因其易用性和极其有用的论坛受益匪浅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110449Z" creationid="lsq" creationdate="20200426T110449Z">
+        <seg>如果勾选 &lt;g0&gt;自动显示相关建议&lt;/g0&gt; 选项，在输入术语条目的开头几个字母时，或者输入标签的"&lt;" 时，剩下内容就会被自动补全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104608Z" creationid="lsq" creationdate="20200426T104608Z">
+        <seg>如果&lt;l0&gt;自动在词典中搜索&lt;/l0&gt; 未被启用，则此功能可让您在词典中查找所选单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
+        <seg>将当前选中内容导出至文本文件进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104708Z" creationid="lsq" creationdate="20200426T104708Z">
+        <seg> 如果没有选中任何文本，&lt;a3&gt;OmegaT&lt;/a3&gt;会选择紧挨着光标右边的那个字符所属的单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103845Z" creationid="lsq" creationdate="20200426T103845Z">
+        <seg>如果已经选择了译文片段的一部分，则此功能会覆盖所选部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110039Z" creationid="lsq" creationdate="20200426T110039Z">
+        <seg>在它们之间切换并插入最后一个选定的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103846Z" creationid="lsq" creationdate="20200426T103846Z">
+        <seg>如果在模糊匹配内选择了部分文本，那么只有被选中的部分插入到光标位置处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103844Z" creationid="lsq" creationdate="20200426T103844Z">
+        <seg>如果在模糊匹配内选择了部分文本，那么只有被选中的部分替换掉整个译文片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065548Z" creationid="HUAWEI" creationdate="20200426T065456Z">
         <seg>如果对齐部分有待改进，请尝试调整参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105257Z" creationid="lsq" creationdate="20200426T105257Z">
+        <seg>如果当前片段是文件中的第一个片段，则会移动到上一个文件的最后一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105053Z" creationid="lsq" creationdate="20200426T105053Z">
+        <seg>如果当前片段是文件中的最后一个片段，则会移动到下一个文件的第一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112139Z" creationid="lsq" creationdate="20200426T112139Z">
+        <seg>如果文档不可用，则条目会灰掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104716Z" creationid="lsq" creationdate="20200426T104716Z">
+        <seg>如果当前片段有多个替代译文，您可以将所选择的译文标记为默认译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112158Z" creationid="lsq" creationdate="20200426T112158Z">
+        <seg>如果尚未保存项目，则此操作会手工确认您是否确实要退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104524Z" creationid="lsq" creationdate="20200426T104524Z">
+        <seg>用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104525Z" creationid="lsq" creationdate="20200426T104525Z">
+        <seg>在项目中查找...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104523Z" creationid="lsq" creationdate="20200426T104523Z">
+        <seg>允许用户在默认的词汇表文件中创建条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,10 +1298,106 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112137Z" creationid="lsq" creationdate="20200426T112137Z">
+        <seg>另外，有两个菜单项允许直接打开当前的原文与译文文档以及可写词汇表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065540Z" creationid="HUAWEI" creationdate="20200426T065540Z">
         <seg>在大多数情况下 &lt;g0&gt;Average score&lt;/g0&gt; 越低，对齐效果越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104722Z" creationid="lsq" creationdate="20200426T104722Z">
+        <seg>在编辑器中，译文会显示为&lt;空&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104722Z" creationid="lsq" creationdate="20200426T104722Z">
+        <seg>此片段在译文文档中不会显示任何东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103844Z" creationid="lsq" creationdate="20200426T103844Z">
+        <seg>插入匹配或所选内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104520Z" creationid="lsq" creationdate="20200426T104520Z">
+        <seg>插入缺失的原文标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104521Z" creationid="lsq" creationdate="20200426T104521Z">
+        <seg>插入下一个缺失标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104519Z" creationid="lsq" creationdate="20200426T104519Z">
+        <seg>插入原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104521Z" creationid="lsq" creationdate="20200426T104521Z">
+        <seg>在光标位置处只插入一个标签（所有缺失标签之一）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103844Z" creationid="lsq" creationdate="20200426T103844Z">
+        <seg>在光标位置插入当前选中的模糊匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104520Z" creationid="lsq" creationdate="20200426T104520Z">
+        <seg>在光标位置插入原文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104521Z" creationid="lsq" creationdate="20200426T104521Z">
+        <seg>在光标位置插入（如果有缺失的）原文标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113111Z" creationid="lsq" creationdate="20200426T113111Z">
+        <seg>完备的拼写检查器</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +1410,30 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113114Z" creationid="lsq" creationdate="20200426T113114Z">
+        <seg>与 Google 翻译的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113044Z" creationid="lsq" creationdate="20200426T113044Z">
+        <seg>它并不会替你翻译！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113043Z" creationid="lsq" creationdate="20200426T113043Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是免费的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064025Z" creationid="HUAWEI" creationdate="20200426T064025Z">
@@ -298,10 +1442,26 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110027Z" creationid="lsq" creationdate="20200426T110027Z">
+        <seg>最近变更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064147Z" creationid="HUAWEI" creationdate="20200426T064147Z">
         <seg>首席开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073342Z" creationid="HUAWEI" creationdate="20200426T073342Z">
+        <seg>正在载入 TMX 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +1494,94 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064232Z" creationid="HUAWEI" creationdate="20200426T064232Z">
         <seg>本地化经理、用户组主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110029Z" creationid="lsq" creationdate="20200426T110029Z">
+        <seg>日志...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112855Z" creationid="lsq" creationdate="20200426T112855Z">
+        <seg>机器翻译(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110038Z" creationid="lsq" creationdate="20200426T110038Z">
+        <seg>机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113228Z" creationid="lsq" creationdate="20200426T113228Z">
+        <seg>正在阅读的各位中有许多都曾翻译过很多用户文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112851Z" creationid="lsq" creationdate="20200426T112851Z">
+        <seg>标记段落界定(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112848Z" creationid="lsq" creationdate="20200426T112848Z">
+        <seg>标记已译片段(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112849Z" creationid="lsq" creationdate="20200426T112849Z">
+        <seg>标记未译片段(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112842Z" creationid="lsq" creationdate="20200426T112842Z">
+        <seg>每个文件的匹配统计数据(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113050Z" creationid="lsq" creationdate="20200426T113050Z">
+        <seg>扩展传播</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113106Z" creationid="lsq" creationdate="20200426T113106Z">
+        <seg>MediaWiki（维基百科）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113102Z" creationid="lsq" creationdate="20200426T113102Z">
+        <seg>Microsoft Word、Excel、Power</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +1630,126 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105051Z" creationid="lsq" creationdate="20200426T105051Z">
+        <seg>移动到下一个已译片段，忽略未译片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105050Z" creationid="lsq" creationdate="20200426T105050Z">
+        <seg>移动到下一个在翻译记忆库中无相同内容的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105052Z" creationid="lsq" creationdate="20200426T105052Z">
+        <seg>移动到下一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105255Z" creationid="lsq" creationdate="20200426T105105Z">
+        <seg>移动到上一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105527Z" creationid="lsq" creationdate="20200426T105527Z">
+        <seg>移动到与当前&lt;g0&gt;模糊匹配&lt;/g0&gt;面板中所选择的匹配内容不一致的片段。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111733Z" creationid="lsq" creationdate="20200426T111733Z">
+        <seg>当光标从一个片段移动到下一个片段， &lt;f0&gt;/tm&lt;/f0&gt; 文件夹的翻译记忆就会被自动更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111207Z" creationid="lsq" creationdate="20200426T111207Z">
+        <seg>新建...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105426Z" creationid="lsq" creationdate="20200426T105426Z">
+        <seg>下一个备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105051Z" creationid="lsq" creationdate="20200426T105051Z">
+        <seg>下一个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105050Z" creationid="lsq" creationdate="20200426T105050Z">
+        <seg>下一个已译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112732Z" creationid="lsq" creationdate="20200426T112732Z">
+        <seg>下一个独特片段(&amp;Q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105049Z" creationid="lsq" creationdate="20200426T105049Z">
+        <seg>下一个未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104454Z" creationid="lsq" creationdate="20200426T103847Z">
+        <seg>如果未激活任何机器翻译服务（在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;机器翻译&lt;/g2&gt; &lt;/m0&gt;中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105413Z" creationid="lsq" creationdate="20200426T105359Z">
+        <seg>提示：当 &lt;l3&gt;使用Tab键前进&lt;/l3&gt; 未被选择时，.&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; 也可作为其功能的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105248Z" creationid="lsq" creationdate="20200426T105053Z">
+        <seg>提示：&lt;k0&gt;Enter&lt;/k0&gt; 是 &lt;l1&gt;使用Tab键前进&lt;/l1&gt;的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T072415Z" creationid="HUAWEI" creationdate="20200426T072415Z">
@@ -390,10 +1758,90 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113209Z" creationid="lsq" creationdate="20200426T113209Z">
+        <seg>ODFAuthors 和 LibreOffice 的意大利语译者对于可以使用这样一款好工具来处理 LibreOffice 社区的工作感到很满足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113013Z" creationid="lsq" creationdate="20200426T113013Z">
+        <seg>OmegaT &lt;s0&gt;免费翻译记忆工具&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113115Z" creationid="lsq" creationdate="20200426T113115Z">
+        <seg>OmegaT 屏幕截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111740Z" creationid="lsq" creationdate="20200426T111740Z">
+        <seg>OmegaT 每 3 分钟自动保存一次翻译，在关闭项目或退出 OmegaT 前也会自动保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113219Z" creationid="lsq" creationdate="20200426T113219Z">
+        <seg>OmegaT 是一款自由软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113220Z" creationid="lsq" creationdate="20200426T113220Z">
+        <seg>OmegaT 是开源软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113218Z" creationid="lsq" creationdate="20200426T113218Z">
+        <seg>OmegaT不仅是一款产品；它是一个激动人心的项目，你可以参与其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071205Z" creationid="HUAWEI" creationdate="20200426T071205Z">
         <seg>翻译记忆库创建时，只包含首列 &lt;g0&gt;Keep&lt;/g0&gt; 选项框处于勾选状态的行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113105Z" creationid="lsq" creationdate="20200426T113105Z">
+        <seg>开放文档格式（LibreOffice、OpenOffice.org）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112040Z" creationid="lsq" creationdate="20200426T112040Z">
+        <seg>打开 MED 项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111239Z" creationid="lsq" creationdate="20200426T111239Z">
+        <seg>打开最近的项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +1878,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111533Z" creationid="lsq" creationdate="20200426T111511Z">
+        <seg>打开 &lt;f1&gt;目标&lt;/f1&gt; 文件中产生的 &lt;f0&gt;UTF8&lt;/f0&gt; 文件 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T072029Z" creationid="HUAWEI" creationdate="20200426T072029Z">
@@ -462,6 +1918,110 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111238Z" creationid="lsq" creationdate="20200426T111238Z">
+        <seg>打开...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104525Z" creationid="lsq" creationdate="20200426T104525Z">
+        <seg>查找并替换...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104524Z" creationid="lsq" creationdate="20200426T104524Z">
+        <seg>在项目中查找...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111239Z" creationid="lsq" creationdate="20200426T111239Z">
+        <seg>打开之前创建的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112040Z" creationid="lsq" creationdate="20200426T112040Z">
+        <seg>打开 MED 格式的项目包。此格式由欧盟翻译总局定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111155Z" creationid="lsq" creationdate="20200426T111155Z">
+        <seg>在首选项对话框中打开 &lt;l0&gt;编辑器&lt;/l0&gt; 选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111128Z" creationid="lsq" creationdate="20200426T111128Z">
+        <seg>在首选项对话框中打开 &lt;l0&gt;文件过滤器&lt;/l0&gt; 选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110037Z" creationid="lsq" creationdate="20200426T110037Z">
+        <seg>选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112133Z" creationid="lsq" creationdate="20200426T112133Z">
+        <seg> 打开&lt;l0&gt;.项目文件窗口&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111141Z" creationid="lsq" creationdate="20200426T111141Z">
+        <seg>在首选项对话框中打开 &lt;l0&gt;片段分割&lt;/l0&gt; 选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111201Z" creationid="lsq" creationdate="20200426T111201Z">
+        <seg>打开存储着 OmegaT 配置文件的本地目录（取决于操作系统）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110023Z" creationid="lsq" creationdate="20200426T110023Z">
+        <seg>在默认浏览器中打开本手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110035Z" creationid="lsq" creationdate="20200426T110035Z">
+        <seg>选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064115Z" creationid="HUAWEI" creationdate="20200426T064115Z">
@@ -482,6 +2042,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113106Z" creationid="lsq" creationdate="20200426T113106Z">
+        <seg>纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please consult the documentation about your recovery options and
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
@@ -492,10 +2060,74 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113109Z" creationid="lsq" creationdate="20200426T113109Z">
+        <seg>强大的工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110036Z" creationid="lsq" creationdate="20200426T110036Z">
+        <seg>首选项...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070457Z" creationid="HUAWEI" creationdate="20200426T070457Z">
         <seg>按下空格键（ &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;的快捷键）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104524Z" creationid="lsq" creationdate="20200426T104524Z">
+        <seg>用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105428Z" creationid="lsq" creationdate="20200426T105428Z">
+        <seg>上一个备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105055Z" creationid="lsq" creationdate="20200426T105055Z">
+        <seg>上一个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113049Z" creationid="lsq" creationdate="20200426T113049Z">
+        <seg>专业功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113223Z" creationid="lsq" creationdate="20200426T113223Z">
+        <seg>编程确实是最重要的，没有编程就不会有程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111206Z" creationid="lsq" creationdate="20200426T111206Z">
+        <seg>项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -516,6 +2148,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112058Z" creationid="lsq" creationdate="20200426T112058Z">
+        <seg>项目文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project load cancelled by user</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073252Z" creationid="HUAWEI" creationdate="20200426T073252Z">
@@ -532,6 +2172,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112043Z" creationid="lsq" creationdate="20200426T112043Z">
+        <seg>属性...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112142Z" creationid="lsq" creationdate="20200426T112142Z">
+        <seg>退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rather than beep
 Or a rude error message
 These words: 'Page not found'</seg>
@@ -544,10 +2200,218 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103840Z" creationid="lsq" creationdate="20200426T103840Z">
+        <seg>恢复前一操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104748Z" creationid="lsq" creationdate="20200426T104723Z">
+        <seg>登记完全相同的译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111513Z" creationid="lsq" creationdate="20200426T111513Z">
+        <seg>重新载入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111514Z" creationid="lsq" creationdate="20200426T111514Z">
+        <seg>重新加载项目，让对原文文件与项目设置的外部更改生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104719Z" creationid="lsq" creationdate="20200426T104719Z">
+        <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112902Z" creationid="lsq" creationdate="20200426T112902Z">
+        <seg>插入原文文本时替换命中的词汇表条目(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103842Z" creationid="lsq" creationdate="20200426T103842Z">
+        <seg>用匹配或所选内容替换译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103846Z" creationid="lsq" creationdate="20200426T103846Z">
+        <seg>替换为机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104356Z" creationid="lsq" creationdate="20200426T104356Z">
+        <seg>替换为原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103846Z" creationid="lsq" creationdate="20200426T103846Z">
+        <seg>用所选机器翻译服务提供的译文替换掉译文片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103843Z" creationid="lsq" creationdate="20200426T103843Z">
+        <seg>用当前选中的模糊匹配（默认情况下会选中第一个匹配）替换掉整个译文片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104506Z" creationid="lsq" creationdate="20200426T104506Z">
+        <seg>用原文替换掉整个目标片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103841Z" creationid="lsq" creationdate="20200426T103841Z">
+        <seg>恢复到取消上一个编辑操作之前的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103836Z" creationid="lsq" creationdate="20200426T103836Z">
+        <seg>恢复到取消上一个编辑操作之前的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113217Z" creationid="lsq" creationdate="20200426T113217Z">
+        <seg>Robert Corner，Laue-Langevin 研究所，法国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071538Z" creationid="HUAWEI" creationdate="20200426T071538Z">
         <seg>示例文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111736Z" creationid="lsq" creationdate="20200426T111736Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111737Z" creationid="lsq" creationdate="20200426T111737Z">
+        <seg>将内部的翻译记忆库保存到硬盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112153Z" creationid="lsq" creationdate="20200426T112153Z">
+        <seg>保存项目并退出 &lt;a0&gt;OmegaT&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111735Z" creationid="lsq" creationdate="20200426T111735Z">
+        <seg>保存翻译并关闭项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112846Z" creationid="lsq" creationdate="20200426T112846Z">
+        <seg>脚本(&amp;G)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104528Z" creationid="lsq" creationdate="20200426T104528Z">
+        <seg>查找词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104524Z" creationid="lsq" creationdate="20200426T104524Z">
+        <seg>如果您在按</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104524Z" creationid="lsq" creationdate="20200426T104524Z">
+        <seg>允许用户在默认的词汇表文件中创建条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111237Z" creationid="lsq" creationdate="20200426T111237Z">
+        <seg>选择 &lt;l0&gt;如何使用团队项目&lt;/l0&gt; 来查看详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105420Z" creationid="lsq" creationdate="20200426T105420Z">
+        <seg>片段序号...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111133Z" creationid="lsq" creationdate="20200426T111133Z">
+        <seg>片段分割...</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,6 +2424,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110120Z" creationid="lsq" creationdate="20200426T110040Z">
+        <seg>选择 &lt;g0&gt;Taas术语查询&lt;/g0&gt; 来激活查询功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104711Z" creationid="lsq" creationdate="20200426T104711Z">
+        <seg>选择匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070405Z" creationid="HUAWEI" creationdate="20200426T070405Z">
@@ -568,10 +2448,74 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104718Z" creationid="lsq" creationdate="20200426T104718Z">
+        <seg>如果当前译文不适用，请选择此菜单条目，然后输入替代译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104713Z" creationid="lsq" creationdate="20200426T104713Z">
+        <seg>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到片段中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104720Z" creationid="lsq" creationdate="20200426T104720Z">
+        <seg>设置为空译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113050Z" creationid="lsq" creationdate="20200426T113050Z">
+        <seg>同时处理多个多文件项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113059Z" creationid="lsq" creationdate="20200426T113059Z">
+        <seg>同时使用多个翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064334Z" creationid="HUAWEI" creationdate="20200426T064334Z">
         <seg>项目启动以来，得到了许多贡献者的支持，人数太多在此无法全部列出，但我们非常感激他们的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073336Z" creationid="HUAWEI" creationdate="20200426T073336Z">
+        <seg>原文文件载入完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112725Z" creationid="lsq" creationdate="20200426T112725Z">
+        <seg>所选匹配的来源(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105431Z" creationid="lsq" creationdate="20200426T105431Z">
+        <seg>所选匹配的来源</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,6 +2536,46 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113111Z" creationid="lsq" creationdate="20200426T113111Z">
+        <seg>支持从右向左的语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104631Z" creationid="lsq" creationdate="20200426T104610Z">
+        <seg>转换大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112913Z" creationid="lsq" creationdate="20200426T112913Z">
+        <seg>交换 {0} 和 {1} 视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113221Z" creationid="lsq" creationdate="20200426T113221Z">
+        <seg>这意味着如果您想，可以修改 OmegaT 以满足您自己的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113219Z" creationid="lsq" creationdate="20200426T113219Z">
+        <seg>这意味着像您这样的用户可以免费下载并使用，只有极少的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070058Z" creationid="HUAWEI" creationdate="20200426T070058Z">
@@ -608,10 +2592,58 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113217Z" creationid="lsq" creationdate="20200426T113217Z">
+        <seg>你和 OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063905Z" creationid="HUAWEI" creationdate="20200426T063905Z">
         <seg>OmegaT 项目由非正式国际志愿者团队维护 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113222Z" creationid="lsq" creationdate="20200426T113222Z">
+        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112034Z" creationid="lsq" creationdate="20200426T112023Z">
+        <seg>创建的译文文档位于&lt;f0&gt;目标&lt;/f0&gt; 文件夹。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112138Z" creationid="lsq" creationdate="20200426T112138Z">
+        <seg>这些文档是用操作系统所选择的应用程序打开的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The entry will be greyed, if there's just one translation available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104716Z" creationid="lsq" creationdate="20200426T104716Z">
+        <seg>如果只有一个可用译文，则该条目将为灰色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104523Z" creationid="lsq" creationdate="20200426T104523Z">
+        <seg> 时，此文件并不会被清空，以与常规的剪贴板行为一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -628,6 +2660,38 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111806Z" creationid="lsq" creationdate="20200426T111806Z">
+        <seg>3分钟的间隔时间可以在 &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;首选项&lt;/g3&gt; &lt;g4&gt;保存和输出&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;中进行修改。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105428Z" creationid="lsq" creationdate="20200426T105428Z">
+        <seg>会打开下一个带有备注的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The one and the same segment may, depending on the context, require different translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104718Z" creationid="lsq" creationdate="20200426T104718Z">
+        <seg>一个片段和另一个相同的片段可能会因为上下文而需要不同的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113202Z" creationid="lsq" creationdate="20200426T113202Z">
+        <seg>对于我们这些追求高效而非复杂的人来说，它是完美的伙伴；词汇表、自动完成和自动翻译使我在文学翻译方面的工作更加高效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064304Z" creationid="HUAWEI" creationdate="20200426T064304Z">
@@ -636,10 +2700,42 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105430Z" creationid="lsq" creationdate="20200426T105430Z">
+        <seg>会打开上一个带有备注的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064055Z" creationid="HUAWEI" creationdate="20200426T064055Z">
         <seg>该项目的主要成员是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105425Z" creationid="lsq" creationdate="20200426T105425Z">
+        <seg>在输入片段的序号或编号后就会打开该片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110030Z" creationid="lsq" creationdate="20200426T110030Z">
+        <seg>对话框的标题反映了实际使用的文件（这取决于并发运行的 OmegaT 实例的数量）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111132Z" creationid="lsq" creationdate="20200426T111132Z">
+        <seg>这些设置是应用到 OmegaT 级别的，对所有项目生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -655,10 +2751,42 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104523Z" creationid="lsq" creationdate="20200426T104523Z">
+        <seg>允许用户在默认的词汇表文件中创建条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103839Z" creationid="lsq" creationdate="20200426T103839Z">
+        <seg>如果修改后的片段已经确认，则该命令不起作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111942Z" creationid="lsq" creationdate="20200426T111942Z">
+        <seg>此功能是团队项目特有的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071530Z" creationid="HUAWEI" creationdate="20200426T071530Z">
         <seg>这是文本显示时的样子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103736Z" creationid="lsq" creationdate="20200426T103736Z">
+        <seg>仅在打开项目后本菜单才会有条目显示。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,6 +2823,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113119Z" creationid="lsq" creationdate="20200426T113119Z">
+        <seg>要找到最适合您的版本，请点击以下链接进入下载选择器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070840Z" creationid="HUAWEI" creationdate="20200426T070840Z">
@@ -703,10 +2839,34 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111326Z" creationid="lsq" creationdate="20200426T111326Z">
+        <seg>要翻译 Wikipedia 页面的内容（例如）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total number of segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T072412Z" creationid="HUAWEI" creationdate="20200426T072412Z">
         <seg>片段总数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073353Z" creationid="HUAWEI" creationdate="20200426T073353Z">
+        <seg>译文文档已创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073350Z" creationid="HUAWEI" creationdate="20200426T073350Z">
+        <seg>译文文档已创建</seg>
       </tuv>
     </tu>
     <tu>
@@ -727,6 +2887,30 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073355Z" creationid="HUAWEI" creationdate="20200426T073355Z">
+        <seg>无法建立新的 TMX 文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103815Z" creationid="lsq" creationdate="20200426T103815Z">
+        <seg>撤销前一操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113110Z" creationid="lsq" creationdate="20200426T113110Z">
+        <seg>Unicode（UTF-8）支持：可用于非拉丁字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071802Z" creationid="HUAWEI" creationdate="20200426T071802Z">
@@ -735,10 +2919,130 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112008Z" creationid="lsq" creationdate="20200426T111923Z">
+        <seg>将本地 &lt;f0&gt;原文&lt;/f0&gt; 文件夹中修改的内容提交到远程仓库。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112015Z" creationid="lsq" creationdate="20200426T112005Z">
+        <seg>将本地 &lt;f0&gt;目标&lt;/f0&gt; 文件夹中修改的内容提交到远程仓库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112905Z" creationid="lsq" creationdate="20200426T112905Z">
+        <seg>对词典条目使用模糊匹配(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112847Z" creationid="lsq" creationdate="20200426T112847Z">
+        <seg>用 Tab 前进(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112907Z" creationid="lsq" creationdate="20200426T112907Z">
+        <seg>对词典条目使用模糊匹配(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112901Z" creationid="lsq" creationdate="20200426T112901Z">
+        <seg>对词汇表条目使用词干分析(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070010Z" creationid="HUAWEI" creationdate="20200426T070010Z">
         <seg>使用 &lt;g0&gt;ID comparison&lt;/g0&gt; 模式对齐 键=值 文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104650Z" creationid="lsq" creationdate="20200426T104650Z">
+        <seg>使用 &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt;可以在四个选项中循环切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104714Z" creationid="lsq" creationdate="20200426T104714Z">
+        <seg>用作默认译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112900Z" creationid="lsq" creationdate="20200426T112900Z">
+        <seg>使用分开出现在原文文本中的词条(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104912Z" creationid="lsq" creationdate="20200426T104727Z">
+        <seg>本命令用来登记与源文完全相同的译文，即使&lt;l0&gt;&lt;g1&gt;允许译文和源文相同&lt;/g1&gt;&lt;/l0&gt; 并未选中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113059Z" creationid="lsq" creationdate="20200426T113059Z">
+        <seg>带词形变化识别的用户词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113159Z" creationid="lsq" creationdate="20200426T113159Z">
+        <seg>用户头像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110021Z" creationid="lsq" creationdate="20200426T110021Z">
+        <seg>用户手册...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113211Z" creationid="lsq" creationdate="20200426T113211Z">
+        <seg>Valter Mura -英语 &gt; 意大利语译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113038Z" creationid="lsq" creationdate="20200426T113038Z">
+        <seg>视频上传者：&lt;a0&gt;CATguruEN&lt;/a0&gt;（Dominique Pivard）</seg>
       </tuv>
     </tu>
     <tu>
@@ -775,6 +3079,22 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
+        <seg>如果未选择任何文本，则将当前原文片段写入该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111433Z" creationid="lsq" creationdate="20200426T111433Z">
+        <seg>当你完成了翻译后，将其导入 Wikipedia：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wind catches lily
 Scatt'ring petals to the wind:
 Your page is not found</seg>
@@ -787,12 +3107,100 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110015Z" creationid="lsq" creationdate="20200426T105907Z">
+        <seg>使用此命令，你可以回到上一个片段，如果稍后要回到当前的片段，使用下方的&lt;g0&gt;在历史记录中前进...&lt;/g0&gt;命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105929Z" creationid="lsq" creationdate="20200426T105726Z">
+        <seg>使用此命令你可以前进到用 &lt;g1&gt;在历史记录中回溯&lt;/g1&gt;...命令之前的处理片段。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113101Z" creationid="lsq" creationdate="20200426T113101Z">
+        <seg>可处理超过 30 种文件格式大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113104Z" creationid="lsq" creationdate="20200426T113104Z">
+        <seg>XHTML 和 HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113220Z" creationid="lsq" creationdate="20200426T113220Z">
+        <seg>你同样可以自由地将其复制并传给其他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071940Z" creationid="HUAWEI" creationdate="20200426T071940Z">
         <seg>可在以下文件中找到详细统计信息：
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113226Z" creationid="lsq" creationdate="20200426T113226Z">
+        <seg> Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113014Z" creationid="lsq" creationdate="20200426T113014Z">
+        <seg>下载(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download#downloads</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113135Z" creationid="lsq" creationdate="20200426T113135Z">
+        <seg>下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download#latest</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113157Z" creationid="lsq" creationdate="20200426T113157Z">
+        <seg>下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download#selector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113133Z" creationid="lsq" creationdate="20200426T113129Z">
+        <seg>下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download#standard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113155Z" creationid="lsq" creationdate="20200426T113155Z">
+        <seg>下载选择器</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
