@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064241Z" creationid="HUAWEI" creationdate="20200426T064241Z">
+        <seg>开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064218Z" creationid="HUAWEI" creationdate="20200426T064218Z">
+        <seg>文档经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063749Z" creationid="HUAWEI" creationdate="20200426T063749Z">
+        <seg>英语版本译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064158Z" creationid="HUAWEI" creationdate="20200426T064158Z">
+        <seg>集成经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064025Z" creationid="HUAWEI" creationdate="20200426T064025Z">
+        <seg>其目的是开发、发行开源翻译记忆软件OmegaT，并对其使用提供支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064147Z" creationid="HUAWEI" creationdate="20200426T064147Z">
+        <seg>首席开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064232Z" creationid="HUAWEI" creationdate="20200426T064232Z">
+        <seg>本地化经理、用户组主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064115Z" creationid="HUAWEI" creationdate="20200426T064115Z">
+        <seg>OmegaT 应用程序的原作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064137Z" creationid="HUAWEI" creationdate="20200426T064137Z">
+        <seg>项目经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064334Z" creationid="HUAWEI" creationdate="20200426T064334Z">
+        <seg>项目启动以来，得到了许多贡献者的支持，人数太多在此无法全部列出，但我们非常感激他们的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063822Z" creationid="HUAWEI" creationdate="20200426T063806Z">
+        <seg>OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063905Z" creationid="HUAWEI" creationdate="20200426T063905Z">
+        <seg>OmegaT 项目由非正式国际志愿者团队维护 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064304Z" creationid="HUAWEI" creationdate="20200426T064304Z">
+        <seg>项目理念在&lt;a0&gt;此处&lt;/a0&gt;有所描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064055Z" creationid="HUAWEI" creationdate="20200426T064055Z">
+        <seg>该项目的主要成员是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063717Z" creationid="HUAWEI" creationdate="20200426T063717Z">
+        <seg>网站内容作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063733Z" creationid="HUAWEI" creationdate="20200426T063733Z">
+        <seg>网站设计</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064209Z" creationid="HUAWEI" creationdate="20200426T064209Z">
+        <seg>网站经理</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

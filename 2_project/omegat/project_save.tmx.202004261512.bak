@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070619Z" creationid="HUAWEI" creationdate="20200426T070543Z">
+        <seg>进行若干次此类操作后，选择 &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; 来更新其他片段的对齐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070244Z" creationid="HUAWEI" creationdate="20200426T070244Z">
+        <seg>经过自动化处理后，对齐的两个文件通常需要手工修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064919Z" creationid="HUAWEI" creationdate="20200426T064919Z">
+        <seg>对齐器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065320Z" creationid="HUAWEI" creationdate="20200426T065320Z">
+        <seg>执行对齐操作可以从已经翻译过的单语言文档创建双语翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070120Z" creationid="HUAWEI" creationdate="20200426T070120Z">
+        <seg>选择效果最好的一种方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070146Z" creationid="HUAWEI" creationdate="20200426T070146Z">
+        <seg>点击&lt;g0&gt;Continue&lt;/g0&gt; 进入下一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070507Z" creationid="HUAWEI" creationdate="20200426T070507Z">
+        <seg>点击另一列中与第一个片段相对应的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064241Z" creationid="HUAWEI" creationdate="20200426T064241Z">
+        <seg>开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064218Z" creationid="HUAWEI" creationdate="20200426T064218Z">
+        <seg>文档经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063749Z" creationid="HUAWEI" creationdate="20200426T063749Z">
+        <seg>英语版本译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065548Z" creationid="HUAWEI" creationdate="20200426T065456Z">
+        <seg>如果对齐部分有待改进，请尝试调整参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065626Z" creationid="HUAWEI" creationdate="20200426T065626Z">
+        <seg>在&lt;g0&gt;Heapwise&lt;/g0&gt; 模式下，文本是整体评估的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065650Z" creationid="HUAWEI" creationdate="20200426T065645Z">
+        <seg>在 &lt;g1&gt;Parsewise&lt;/g1&gt;模式下，文本按照片段评估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065540Z" creationid="HUAWEI" creationdate="20200426T065540Z">
+        <seg>在大多数情况下 &lt;g0&gt;Average score&lt;/g0&gt; 越低，对齐效果越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064158Z" creationid="HUAWEI" creationdate="20200426T064158Z">
+        <seg>集成经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064025Z" creationid="HUAWEI" creationdate="20200426T064025Z">
+        <seg>其目的是开发、发行开源翻译记忆软件OmegaT，并对其使用提供支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064147Z" creationid="HUAWEI" creationdate="20200426T064147Z">
+        <seg>首席开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064232Z" creationid="HUAWEI" creationdate="20200426T064232Z">
+        <seg>本地化经理、用户组主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071205Z" creationid="HUAWEI" creationdate="20200426T071205Z">
+        <seg>翻译记忆库创建时，只包含首列 &lt;g0&gt;Keep&lt;/g0&gt; 选项框处于勾选状态的行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064115Z" creationid="HUAWEI" creationdate="20200426T064115Z">
+        <seg>OmegaT 应用程序的原作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070457Z" creationid="HUAWEI" creationdate="20200426T070457Z">
+        <seg>按下空格键（ &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;的快捷键）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064137Z" creationid="HUAWEI" creationdate="20200426T064137Z">
+        <seg>项目经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070405Z" creationid="HUAWEI" creationdate="20200426T070405Z">
+        <seg>选择第一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064334Z" creationid="HUAWEI" creationdate="20200426T064334Z">
+        <seg>项目启动以来，得到了许多贡献者的支持，人数太多在此无法全部列出，但我们非常感激他们的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065411Z" creationid="HUAWEI" creationdate="20200426T065411Z">
+        <seg>第1步：调整对齐参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070156Z" creationid="HUAWEI" creationdate="20200426T070156Z">
+        <seg>第2步：手工修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070058Z" creationid="HUAWEI" creationdate="20200426T070058Z">
+        <seg> &lt;g0&gt;Viterbi&lt;/g0&gt; 和 &lt;g1&gt;Forward-Backward&lt;/g1&gt; 算法是两种不同的计算方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063822Z" creationid="HUAWEI" creationdate="20200426T063806Z">
+        <seg>OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063905Z" creationid="HUAWEI" creationdate="20200426T063905Z">
+        <seg>OmegaT 项目由非正式国际志愿者团队维护 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064304Z" creationid="HUAWEI" creationdate="20200426T064304Z">
+        <seg>项目理念在&lt;a0&gt;此处&lt;/a0&gt;有所描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064055Z" creationid="HUAWEI" creationdate="20200426T064055Z">
+        <seg>该项目的主要成员是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070021Z" creationid="HUAWEI" creationdate="20200426T070021Z">
+        <seg>仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070016Z" creationid="HUAWEI" creationdate="20200426T070016Z">
+        <seg>即使两个文件中键的顺序不同或两个文件包含的信息数量不等，这种方式也有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065339Z" creationid="HUAWEI" creationdate="20200426T065339Z">
+        <seg>访问此窗口，请选择 &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070336Z" creationid="HUAWEI" creationdate="20200426T070336Z">
+        <seg>要将两个片段对齐到同一行上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070840Z" creationid="HUAWEI" creationdate="20200426T070840Z">
+        <seg>单独修改一个或多个片段的位置，选中片段后按下 &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;向上&lt;/g1&gt;) 或 &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;向下&lt;/g3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070348Z" creationid="HUAWEI" creationdate="20200426T070348Z">
+        <seg>翻译单元位于最后两列的单元格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070010Z" creationid="HUAWEI" creationdate="20200426T070010Z">
+        <seg>使用 &lt;g0&gt;ID comparison&lt;/g0&gt; 模式对齐 键=值 文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063717Z" creationid="HUAWEI" creationdate="20200426T063717Z">
+        <seg>网站内容作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063733Z" creationid="HUAWEI" creationdate="20200426T063733Z">
+        <seg>网站设计</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064209Z" creationid="HUAWEI" creationdate="20200426T064209Z">
+        <seg>网站经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071037Z" creationid="HUAWEI" creationdate="20200426T070704Z">
+        <seg>两列充分对齐后，点击 &lt;g0&gt;Save TMX...&lt;/g0&gt; 创建生成的翻译记忆库。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

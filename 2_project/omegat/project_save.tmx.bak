@@ -98,22 +98,6 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Could not create project dir at {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073400Z" creationid="HUAWEI" creationdate="20200426T073400Z">
-        <seg>无法在 {0} 创建项目目录</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Creating translated documents: {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073347Z" creationid="HUAWEI" creationdate="20200426T073347Z">
-        <seg>正在创建译文文档：{0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064241Z" creationid="HUAWEI" creationdate="20200426T064241Z">
@@ -202,14 +186,6 @@ Gossamer threads hold you back
         <seg>帮助页面扣人心弦
 蛛丝紧缠裹足不前
 404 找不到页面</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Failed to create project!</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073358Z" creationid="HUAWEI" creationdate="20200426T073358Z">
-        <seg>无法创建项目！</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,14 +302,6 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064147Z" creationid="HUAWEI" creationdate="20200426T064147Z">
         <seg>首席开发人员</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Loading TMX files...</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073342Z" creationid="HUAWEI" creationdate="20200426T073342Z">
-        <seg>正在载入 TMX 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,14 +576,6 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Source file loading complete</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073336Z" creationid="HUAWEI" creationdate="20200426T073336Z">
-        <seg>原文文件载入完成</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065411Z" creationid="HUAWEI" creationdate="20200426T065411Z">
@@ -751,22 +711,6 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Translated document created</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073353Z" creationid="HUAWEI" creationdate="20200426T073353Z">
-        <seg>译文文档已创建</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Translated documents created</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073350Z" creationid="HUAWEI" creationdate="20200426T073350Z">
-        <seg>译文文档已创建</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T072521Z" creationid="HUAWEI" creationdate="20200426T072521Z">
@@ -779,14 +723,6 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070348Z" creationid="HUAWEI" creationdate="20200426T070348Z">
         <seg>翻译单元位于最后两列的单元格中。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Unable to build new TMX file!</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073355Z" creationid="HUAWEI" creationdate="20200426T073355Z">
-        <seg>无法建立新的 TMX 文件！</seg>
       </tuv>
     </tu>
     <tu>
