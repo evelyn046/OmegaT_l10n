@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112923Z" creationid="lsq" creationdate="20200426T112923Z">
         <seg>关于(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090917Z" creationid="62585" creationdate="20200427T090917Z">
+        <seg>添加(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090908Z" creationid="62585" creationdate="20200427T090908Z">
+        <seg>添加(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +70,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090828Z" creationid="62585" creationdate="20200427T090828Z">
+        <seg>后退(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090757Z" creationid="62585" creationdate="20200427T090757Z">
+        <seg>取消(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093026Z" creationid="62585" creationdate="20200427T093026Z">
+        <seg>清空菜单(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090802Z" creationid="62585" creationdate="20200427T090802Z">
+        <seg>关闭(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090913Z" creationid="62585" creationdate="20200427T090913Z">
+        <seg>编辑(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Editor...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112853Z" creationid="lsq" creationdate="20200426T112853Z">
@@ -66,6 +122,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112916Z" creationid="lsq" creationdate="20200426T112916Z">
         <seg>启用历史完成(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090806Z" creationid="62585" creationdate="20200427T090806Z">
+        <seg>过滤器(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090946Z" creationid="62585" creationdate="20200427T090946Z">
+        <seg>结束(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090932Z" creationid="62585" creationdate="20200427T090932Z">
+        <seg>全部修复(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090928Z" creationid="62585" creationdate="20200427T090928Z">
+        <seg>插入(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112827Z" creationid="lsq" creationdate="20200426T112827Z">
@@ -106,6 +194,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112840Z" creationid="lsq" creationdate="20200426T112840Z">
         <seg>匹配统计数据(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093011Z" creationid="62585" creationdate="20200427T093011Z">
+        <seg>新建(&amp;N)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T085700Z" creationid="62585" creationdate="20200427T085700Z">
+        <seg>确定(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093019Z" creationid="62585" creationdate="20200427T093019Z">
+        <seg>打开(&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +238,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093009Z" creationid="62585" creationdate="20200427T093009Z">
+        <seg>项目(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090900Z" creationid="62585" creationdate="20200427T090900Z">
+        <seg>删除(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090950Z" creationid="62585" creationdate="20200427T090950Z">
+        <seg>删除过滤器(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090814Z" creationid="62585" creationdate="20200427T090814Z">
+        <seg>替换(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090943Z" creationid="62585" creationdate="20200427T090943Z">
+        <seg>替换下一个(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112919Z" creationid="lsq" creationdate="20200426T112919Z">
         <seg>恢复主窗口(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090954Z" creationid="62585" creationdate="20200427T090954Z">
+        <seg>另存为(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090856Z" creationid="62585" creationdate="20200427T090856Z">
+        <seg>查找(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090936Z" creationid="62585" creationdate="20200427T090936Z">
+        <seg>跳过(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112837Z" creationid="lsq" creationdate="20200426T112837Z">
@@ -182,6 +358,40 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T082818Z" creationid="62585" creationdate="20200427T082818Z">
+        <seg>（英语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075051Z" creationid="62585" creationdate="20200427T075051Z">
+        <seg>（意大利语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075237Z" creationid="62585" creationdate="20200427T075237Z">
+        <seg>（俄语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T092916Z" creationid="62585" creationdate="20200427T092916Z">
+        <seg>（在用户手册中，参见“待翻译文件” &gt; “文件格式”来了解支持的文件格式。）
+要添加文件到项目中，在项目文件窗口中点击复制文件到源文件夹...按钮或从项目菜单中调用此功能，并选定想要复制的源文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113048Z" creationid="lsq" creationdate="20200426T113048Z">
@@ -194,6 +404,28 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113108Z" creationid="lsq" creationdate="20200426T113108Z">
         <seg>……和近 30 种其他文件格式大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091031Z" creationid="62585" creationdate="20200427T091031Z">
+        <seg>1) 减少原文文件数量，分批翻译；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091326Z" creationid="62585" creationdate="20200427T091326Z">
+        <seg>2) 在命令行或 OmegaT 启动脚本中指定
+“java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar”
+来增加 OmegaT 的可用内存量；
+当前设置为 {0}MB；</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105538Z" creationid="lsq" creationdate="20200426T105538Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;  会记住处理过的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091546Z" creationid="62585" creationdate="20200427T091546Z">
+        <seg>&lt;自动&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +494,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074623Z" creationid="62585" creationdate="20200427T074623Z">
+        <seg>关于如何用 Rainbow 的文本提取和文本合并功能对要用 OmegaT 翻译的文件进行预处理和后处理的详细指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113216Z" creationid="lsq" creationdate="20200426T113216Z">
         <seg>它有着丰富的功能、整洁的界面，最重要的是持续且正规的开源开发！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090921Z" creationid="62585" creationdate="20200427T090921Z">
+        <seg>添加(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T063554Z" creationid="62585" creationdate="20200427T063554Z">
+        <seg>还要根据设置窗口中的可用词汇表检查项目的译文语言代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113121Z" creationid="lsq" creationdate="20200426T113121Z">
@@ -366,10 +630,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073108Z" creationid="62585" creationdate="20200427T073108Z">
+        <seg>默认情况下，OmegaT 用户界面上会显示带你全面了解 OmegaT 主要操作和功能的《快速入门指南》。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074933Z" creationid="62585" creationdate="20200427T074933Z">
+        <seg>John Moran 的英文 OmegaT 介绍视频。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073222Z" creationid="HUAWEI" creationdate="20200426T073222Z">
         <seg>分析字符串 - 已完成 {0} / {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113244Z" creationid="lsq" creationdate="20200426T113244Z">
+        <seg>发现无法使用的功能或者文档中的缺陷时，请告知我们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +698,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032935Z" creationid="62585" creationdate="20200427T032935Z">
+        <seg>在使用拼写检查功能前，必须先（针对您的译文语言）安装适合的词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113225Z" creationid="lsq" creationdate="20200426T113225Z">
@@ -418,10 +714,82 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T082830Z" creationid="62585" creationdate="20200427T082830Z">
+        <seg>关于 OmegaT 的博客页面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075109Z" creationid="62585" creationdate="20200427T075109Z">
+        <seg>博客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075032Z" creationid="62585" creationdate="20200427T075032Z">
+        <seg>书籍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113310Z" creationid="lsq" creationdate="20200426T113310Z">
+        <seg>我听进去了，但是我完全不懂编程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113224Z" creationid="lsq" creationdate="20200426T113224Z">
         <seg>但是编程并不是唯一的工作内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075045Z" creationid="62585" creationdate="20200427T075045Z">
+        <seg>作者：Marco Cevoli 和 Sergio Alasia。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073950Z" creationid="62585" creationdate="20200427T073950Z">
+        <seg>作者：Sheila Gomes（巴西葡萄牙语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073721Z" creationid="62585" creationdate="20200427T073721Z">
+        <seg>作者：Susan Welsh（OpenDocument 格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073746Z" creationid="62585" creationdate="20200427T073746Z">
+        <seg>作者：Susan Welsh（PDF 格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073931Z" creationid="62585" creationdate="20200427T073931Z">
+        <seg>作者：Vladimir Zhdanov（俄语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +842,30 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040330Z" creationid="62585" creationdate="20200427T040330Z">
+        <seg>但需要确保语言代码完全一致：例如，FR-FR 词典在以 FR 为译文的设置下将无作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032237Z" creationid="62585" creationdate="20200427T032237Z">
+        <seg>在&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;中检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032059Z" creationid="62585" creationdate="20200427T031746Z">
+        <seg>检查词典文件是否在正确的文件夹中（或在该文件夹的子文件夹下）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110236Z" creationid="lsq" creationdate="20200426T110236Z">
@@ -518,6 +910,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111357Z" creationid="lsq" creationdate="20200426T111357Z">
         <seg>点击Wikipedia 页面的 &lt;g0&gt;编辑&lt;/g0&gt; 标签卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083720Z" creationid="62585" creationdate="20200427T035728Z">
+        <seg>点击&lt;g0&gt;安装新词典&lt;/g0&gt;按钮将打开词典安装器窗口，可选择要安装的词典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,10 +970,42 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090825Z" creationid="62585" creationdate="20200427T090825Z">
+        <seg>内容(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091001Z" creationid="62585" creationdate="20200427T091001Z">
+        <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113318Z" creationid="lsq" creationdate="20200426T113318Z">
+        <seg>持续专业发展（Continuing Professional Development）在当下可是个热词！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converts the current project into a MED package.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112042Z" creationid="lsq" creationdate="20200426T112042Z">
         <seg>将当前项目转换为 MED 包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093032Z" creationid="62585" creationdate="20200427T093032Z">
+        <seg>将文件复制到原文文件夹(&amp;Y)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +1038,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111512Z" creationid="lsq" creationdate="20200426T111512Z">
         <seg>复制文本并将其粘贴到 Wikipedia 页面的翻译版本中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T035328Z" creationid="62585" creationdate="20200427T035328Z">
+        <seg>如果系统中已经有合适的词典文件，例如来自于 Apache OpenOffice、LibreOffice、Firefox 或 Thunderbird 的已安装文件，那么手工复制文件是有意义的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +1138,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091541Z" creationid="62585" creationdate="20200427T091541Z">
+        <seg>虚拟机当前内存使用量：{0}MB；其中可用内存：{1}MB；最大可用：{2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define the translation as being empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104721Z" creationid="lsq" creationdate="20200426T104721Z">
@@ -726,6 +1174,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112905Z" creationid="lsq" creationdate="20200426T112905Z">
         <seg>词典(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T015743Z" creationid="62585" creationdate="20200427T015743Z">
+        <seg>词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083825Z" creationid="62585" creationdate="20200427T020705Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 中的字典基于StarDict或者Lingvo DSL格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,10 +1266,34 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T031808Z" creationid="62585" creationdate="20200427T031808Z">
+        <seg>该文件夹是否包含三个带不同扩展名的同名文件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113246Z" creationid="lsq" creationdate="20200426T113246Z">
+        <seg>捐赠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113117Z" creationid="lsq" creationdate="20200426T113117Z">
         <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093016Z" creationid="62585" creationdate="20200427T093016Z">
+        <seg>下载团队项目(&amp;T)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +1326,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111208Z" creationid="lsq" creationdate="20200426T111208Z">
         <seg>下载团队项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032116Z" creationid="62585" creationdate="20200427T023358Z">
+        <seg>下载文件——文件应该是&lt;f0&gt;tarball&lt;/f0&gt;档案（扩展名为&lt;e1&gt;tar.bz&lt;/e1&gt;或&lt;e2&gt;tar.bz2&lt;/e2&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +1410,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090958Z" creationid="62585" creationdate="20200427T090958Z">
+        <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error creating project!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073259Z" creationid="HUAWEI" creationdate="20200426T073259Z">
@@ -954,6 +1458,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
         <seg>导出所选部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073958Z" creationid="62585" creationdate="20200427T073958Z">
+        <seg>外部文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,10 +1550,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T063822Z" creationid="62585" creationdate="20200427T040105Z">
+        <seg>例如，如果已经选择ES-MX（墨西哥西班牙语）作为译文语言，词典的文件必须命名为es_MX.dic和es_MX.aff。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105945Z" creationid="lsq" creationdate="20200426T105530Z">
         <seg>在历史记录中前进...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074954Z" creationid="62585" creationdate="20200427T074954Z">
+        <seg>Miguel Navarro 的 OmegaT 系列，来自 YouTube（西班牙语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1622,38 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075040Z" creationid="62585" creationdate="20200427T075040Z">
+        <seg>OmegaT 完全指南：翻译人员和项目经理的技巧、提示和建议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073425Z" creationid="62585" creationdate="20200427T073425Z">
+        <seg>在线 HTML 用户手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113228Z" creationid="lsq" creationdate="20200426T113228Z">
+        <seg>你有想过自己撰写点用户文档吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113245Z" creationid="lsq" creationdate="20200426T113245Z">
+        <seg>你曾为你的专业协会期刊写过文章吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110020Z" creationid="lsq" creationdate="20200426T110020Z">
@@ -1110,6 +1670,14 @@ Its winter has come</seg>
         <seg>你苦苦寻觅的帮助
 正逃离你要走的路
 寒冬已将它逮住</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T063122Z" creationid="62585" creationdate="20200427T063122Z">
+        <seg>提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1706,30 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T015813Z" creationid="62585" creationdate="20200427T015813Z">
+        <seg>如何下载并安装词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074459Z" creationid="62585" creationdate="20200427T074459Z">
+        <seg>如何翻译 Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074520Z" creationid="62585" creationdate="20200427T074520Z">
+        <seg>如何翻译 Wordpress XLIFF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113215Z" creationid="lsq" creationdate="20200426T113215Z">
@@ -1162,6 +1754,22 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T071717Z" creationid="62585" creationdate="20200427T032024Z">
+        <seg>如果扩展名是&lt;e0&gt;tar.bz&lt;/e0&gt;，说明忘了解压。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040341Z" creationid="62585" creationdate="20200427T040341Z">
+        <seg>必要时可以编辑词典文件名或更改项目的语言设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
@@ -1174,6 +1782,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104708Z" creationid="lsq" creationdate="20200426T104708Z">
         <seg> 如果没有选中任何文本，&lt;a3&gt;OmegaT&lt;/a3&gt;会选择紧挨着光标右边的那个字符所属的单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113245Z" creationid="lsq" creationdate="20200426T113245Z">
+        <seg>如果还没，为什么不写一篇文章讨论 OmegaT 的使用呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T031813Z" creationid="62585" creationdate="20200427T031813Z">
+        <seg>如果只有一个文件，请检查其扩展名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,6 +1866,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T063536Z" creationid="62585" creationdate="20200427T063536Z">
+        <seg>如果拼写检查器未能正常工作，先确认勾选了拼写检查器对话框中的复选框 &lt;g0&gt;“自动检查文本的拼写”&lt;/g0&gt;（&lt;g1&gt;选项 &gt; 拼写检查...）&lt;/g1&gt; 。&amp;lt;/g1&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104716Z" creationid="lsq" creationdate="20200426T104716Z">
@@ -1250,10 +1882,58 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T065827Z" creationid="62585" creationdate="20200427T065712Z">
+        <seg>如果系统上有其他应用程序使用它们，它们也会从那些程序中消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113317Z" creationid="lsq" creationdate="20200426T113317Z">
+        <seg>如果你已经相当熟悉计算机，并选择一种简单易懂的脚本语言，例如 Javascript 或Tcl/Tk，可以在几周内就通过自学来写出简单却有用的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113308Z" creationid="lsq" creationdate="20200426T113308Z">
+        <seg>如果你会其他编程语言，可以编写代码来支持核心应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T064548Z" creationid="62585" creationdate="20200427T064548Z">
+        <seg>如果翻译了大量文本后，发现项目的译文语言代码与拼写检查器的语言代码不匹配（例如，指定pt_BR为译文语言，但没有pt_BR词汇表），您只需对应的两个文件复制并重命名（例如，将 &lt;e0&gt;pt_PT.aff&lt;/e0&gt;和 &lt;e1&gt;pt_PT.dic&lt;/e1&gt; 复制并重命名为 &lt;e2&gt;pt_BR.aff&lt;/e2&gt; 和 &lt;e3&gt;pt_BR.dic&lt;/e3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113257Z" creationid="lsq" creationdate="20200426T113257Z">
+        <seg>如果你觉得 OmegaT 很有用，并且想要表达感谢，可以向我们的 Paypal 账号&lt;a0&gt;捐赠&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112158Z" creationid="lsq" creationdate="20200426T112158Z">
         <seg>如果尚未保存项目，则此操作会手工确认您是否确实要退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083728Z" creationid="62585" creationdate="20200427T040152Z">
+        <seg>如果只有标准西班牙语词典（例如文件名为 es_es.dic 及 es_es.aff），可以将这些文件复制更名为 es_MX.dic 及 es_MX.aff，拼写词典会正常运作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1962,22 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113303Z" creationid="lsq" creationdate="20200426T113303Z">
+        <seg>如果你是程序员又刚好懂 Java，请查看&lt;a0&gt;源代码&lt;/a0&gt;中 docs_devel 文件夹内的文档来了解如何开始研发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083752Z" creationid="62585" creationdate="20200427T065752Z">
+        <seg>如果出于某种原因，需要不时地执行该操作，将这些文件复制到另一个文件夹（仅供 OmegaT 使用）可能更好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065626Z" creationid="HUAWEI" creationdate="20200426T065626Z">
@@ -1294,6 +1990,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065650Z" creationid="HUAWEI" creationdate="20200426T065645Z">
         <seg>在 &lt;g1&gt;Parsewise&lt;/g1&gt;模式下，文本按照片段评估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034518Z" creationid="62585" creationdate="20200427T034409Z">
+        <seg>在OmegaT中，选择&lt;g0&gt;选项 &gt; 拼写检查&lt;/g0&gt; ，然后点击词典文件文件夹字段旁的&lt;g1&gt;选择&lt;/g1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +2030,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104722Z" creationid="lsq" creationdate="20200426T104722Z">
         <seg>此片段在译文文档中不会显示任何东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T033058Z" creationid="62585" creationdate="20200427T033058Z">
+        <seg>用文件管理器，在适当的位置创建新文件夹用来保存拼写词典（在下面的示例中创建位置为 D:\Translations\spellcheckers）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074430Z" creationid="62585" creationdate="20200427T074430Z">
+        <seg>针对高级用户的 OmegaT 操作和功能信息可在其他网站上找到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +2114,22 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091424Z" creationid="62585" creationdate="20200427T091424Z">
+        <seg>参见用户手册的“第三章 安装与运行 OmegaT”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032646Z" creationid="62585" creationdate="20200427T032646Z">
+        <seg>安装拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113111Z" creationid="lsq" creationdate="20200426T113111Z">
@@ -1418,6 +2154,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073344Z" creationid="62585" creationdate="20200427T073344Z">
+        <seg>在 OmegaT 程序文件夹中的“docs”文件夹内可以找到用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not translate for you!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113044Z" creationid="lsq" creationdate="20200426T113044Z">
@@ -1430,6 +2174,30 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113043Z" creationid="lsq" creationdate="20200426T113043Z">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是免费的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032638Z" creationid="62585" creationdate="20200427T032638Z">
+        <seg>因此，它可以使用大量可用于这些程序的免费拼写词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T035621Z" creationid="62585" creationdate="20200427T035621Z">
+        <seg>但是，用&lt;e0&gt;在线字典的网址&lt;/e0&gt;字段寻找在线词典更简单：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113229Z" creationid="lsq" creationdate="20200426T113229Z">
+        <seg>这真的会让人大开眼界！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +2258,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113229Z" creationid="lsq" creationdate="20200426T113229Z">
+        <seg>本地化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064232Z" creationid="HUAWEI" creationdate="20200426T064232Z">
@@ -1498,10 +2274,26 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113241Z" creationid="lsq" creationdate="20200426T113241Z">
+        <seg>将 OmegaT 本地化为其他语言是一项持续的工作，因为一直都在增加新的特性和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110029Z" creationid="lsq" creationdate="20200426T110029Z">
         <seg>日志...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T030059Z" creationid="62585" creationdate="20200427T030059Z">
+        <seg>朗文当代英语词典</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +2366,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113106Z" creationid="lsq" creationdate="20200426T113106Z">
         <seg>MediaWiki（维基百科）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083915Z" creationid="62585" creationdate="20200427T031628Z">
+        <seg>韦氏词典（Merriam Webster dictionary）——实际使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +2470,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034441Z" creationid="62585" creationdate="20200427T034441Z">
+        <seg>浏览并选择为词典创建的文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111733Z" creationid="lsq" creationdate="20200426T111733Z">
@@ -1734,6 +2542,38 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T070021Z" creationid="62585" creationdate="20200427T065705Z">
+        <seg>注意&lt;f0&gt;删除&lt;/f0&gt;会移除选择的词汇表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083844Z" creationid="62585" creationdate="20200427T023750Z">
+        <seg>请注意，除了“原语-目标语”词典之外，还可以使用“词典”功能获取对以下信息的访问：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034754Z" creationid="62585" creationdate="20200427T034754Z">
+        <seg>请注意“安装”功能需要因特网连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040248Z" creationid="62585" creationdate="20200427T040248Z">
+        <seg>注意这显然会以标准（卡斯提尔）西班牙语进行检查，而非墨西哥西班牙语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105413Z" creationid="lsq" creationdate="20200426T105359Z">
@@ -1766,6 +2606,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T071558Z" creationid="62585" creationdate="20200427T065650Z">
+        <seg>当然，下载正确版本的拼写检查器更明智。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113013Z" creationid="lsq" creationdate="20200426T113013Z">
@@ -1790,6 +2638,38 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073640Z" creationid="62585" creationdate="20200427T073640Z">
+        <seg>OmegaT 初学者教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032545Z" creationid="62585" creationdate="20200427T032545Z">
+        <seg>OmegaT内置拼写检查器，它基于Apache OpenOffice、LibreOffice、Firefox和Thunderbird中使用的拼写检查器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093006Z" creationid="62585" creationdate="20200427T093006Z">
+        <seg>OmegaT 已自动选择“是”选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074923Z" creationid="62585" creationdate="20200427T074923Z">
+        <seg>OmegaT 入门教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113219Z" creationid="lsq" creationdate="20200426T113219Z">
@@ -1806,10 +2686,58 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T072920Z" creationid="62585" creationdate="20200427T072920Z">
+        <seg>OmegaT 附带有全面详细的用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113300Z" creationid="lsq" creationdate="20200426T113300Z">
+        <seg>OmegaT 是用 Java 编写的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113218Z" creationid="lsq" creationdate="20200426T113218Z">
         <seg>OmegaT不仅是一款产品；它是一个激动人心的项目，你可以参与其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091009Z" creationid="62585" creationdate="20200427T091009Z">
+        <seg>OmegaT 耗尽了内存，点击确定后将会退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074918Z" creationid="62585" creationdate="20200427T074918Z">
+        <seg>Qabiria YouTube 频道上的 OmegaT 视频。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091433Z" creationid="62585" creationdate="20200427T091433Z">
+        <seg>OmegaT 现在将终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113243Z" creationid="lsq" creationdate="20200426T113243Z">
+        <seg>用户可以做的最有用的事情之一就是……使用 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +2762,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112040Z" creationid="lsq" creationdate="20200426T112040Z">
         <seg>打开 MED 项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093023Z" creationid="62585" creationdate="20200427T093023Z">
+        <seg>打开最近的项目(&amp;J)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,10 +2978,26 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034512Z" creationid="62585" creationdate="20200427T034512Z">
+        <seg>将要使用的词典文件放到此文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113106Z" creationid="lsq" creationdate="20200426T113106Z">
         <seg>纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074911Z" creationid="62585" creationdate="20200427T074911Z">
+        <seg>OmegaT 视频播放列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,6 +3008,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073311Z" creationid="HUAWEI" creationdate="20200426T073311Z">
         <seg>请参阅文档来获取恢复方法，并请将以下信息配上错误描述回报给软件制造商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113242Z" creationid="lsq" creationdate="20200426T113242Z">
+        <seg>请联系 &lt;a0&gt;OmegaT 本地化协调人员&lt;/a0&gt;来获取本地化/翻译 OmegaT 所涉及的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2108,10 +3068,58 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T031717Z" creationid="62585" creationdate="20200427T031717Z">
+        <seg>词典问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074513Z" creationid="62585" creationdate="20200427T074513Z">
+        <seg>用 OmegaT 本地化 Magento 的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074533Z" creationid="62585" creationdate="20200427T074533Z">
+        <seg>用 OmegaT 本地化从 Wordpress 导出 XLIFF 文件的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074453Z" creationid="62585" creationdate="20200427T074453Z">
+        <seg>用 OmegaT 本地化 Netbeans IDE 的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Professional features</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113049Z" creationid="lsq" creationdate="20200426T113049Z">
         <seg>专业功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113258Z" creationid="lsq" creationdate="20200426T113258Z">
+        <seg>编程（Java）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113306Z" creationid="lsq" creationdate="20200426T113306Z">
+        <seg>编程（非 Java）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2156,6 +3164,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T092955Z" creationid="62585" creationdate="20200427T092955Z">
+        <seg>项目是空的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project load cancelled by user</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073252Z" creationid="HUAWEI" creationdate="20200426T073252Z">
@@ -2180,10 +3196,26 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113244Z" creationid="lsq" creationdate="20200426T113244Z">
+        <seg>宣传</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112142Z" creationid="lsq" creationdate="20200426T112142Z">
         <seg>退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090903Z" creationid="62585" creationdate="20200427T090903Z">
+        <seg>删除(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2196,6 +3228,30 @@ These words: 'Page not found'</seg>
         <seg>不会哔哔哔
 也没有粗鲁的出错讯息
 “页面找不到”就是全部的东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090811Z" creationid="62585" creationdate="20200427T090811Z">
+        <seg>删除过滤器(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090821Z" creationid="62585" creationdate="20200427T090821Z">
+        <seg>全部替换(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073939Z" creationid="62585" creationdate="20200427T073939Z">
+        <seg>OmegaT 功能：入门</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,6 +3352,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090925Z" creationid="62585" creationdate="20200427T090925Z">
+        <seg>恢复默认值(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restores the status before the last editing action was cancelled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T103841Z" creationid="lsq" creationdate="20200426T103841Z">
@@ -2312,10 +3376,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040651Z" creationid="62585" creationdate="20200427T040651Z">
+        <seg>右键点击带下划线的词汇（上图中是 "Artund"）会打开下拉菜单，其中列出了更正建议（Art und）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Robert Corner, Institut Laue-Langevin, France</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113217Z" creationid="lsq" creationdate="20200426T113217Z">
         <seg>Robert Corner，Laue-Langevin 研究所，法国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091440Z" creationid="62585" creationdate="20200427T091440Z">
+        <seg>运行于 Java {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,6 +3472,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T021210Z" creationid="62585" creationdate="20200427T021210Z">
+        <seg>搜索所需的语言组合——例如通过&lt;u0&gt;OmegaT Wiki给出的词典链接&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091354Z" creationid="62585" creationdate="20200427T091348Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111237Z" creationid="lsq" creationdate="20200426T111237Z">
@@ -2420,6 +3516,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071705Z" creationid="HUAWEI" creationdate="20200426T071705Z">
         <seg>片段数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090851Z" creationid="62585" creationdate="20200427T090851Z">
+        <seg>选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +3568,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075102Z" creationid="62585" creationdate="20200427T075102Z">
+        <seg>英语自学在线培训教程（付费）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104720Z" creationid="lsq" creationdate="20200426T104720Z">
@@ -2496,6 +3608,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032151Z" creationid="62585" creationdate="20200427T030335Z">
+        <seg>一些词典没有附加条件，即“可自由使用”，其他诸如上述列出的词典需要GPL许可证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073336Z" creationid="HUAWEI" creationdate="20200426T073336Z">
@@ -2520,6 +3640,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083703Z" creationid="62585" creationdate="20200427T032420Z">
+        <seg>拼写检</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T035634Z" creationid="62585" creationdate="20200427T035634Z">
+        <seg>拼写检查器设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065411Z" creationid="HUAWEI" creationdate="20200426T065411Z">
@@ -2532,6 +3668,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070156Z" creationid="HUAWEI" creationdate="20200426T070156Z">
         <seg>第2步：手工修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113309Z" creationid="lsq" creationdate="20200426T113309Z">
+        <seg>已经有用 Javascript、Groovy 和 Tcl/Tk 等语言所编写的此类辅助性代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,6 +3704,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113243Z" creationid="lsq" creationdate="20200426T113243Z">
+        <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113240Z" creationid="lsq" creationdate="20200426T113240Z">
+        <seg>归功于过往翻译人员的工作，OmegaT 的用户界面及帮助文本已经被翻译成多种语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113221Z" creationid="lsq" creationdate="20200426T113221Z">
@@ -2576,10 +3736,34 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113241Z" creationid="lsq" creationdate="20200426T113241Z">
+        <seg>这意味着只剩下几千种语言了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070058Z" creationid="HUAWEI" creationdate="20200426T070058Z">
         <seg> &lt;g0&gt;Viterbi&lt;/g0&gt; 和 &lt;g1&gt;Forward-Backward&lt;/g1&gt; 算法是两种不同的计算方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T030644Z" creationid="62585" creationdate="20200427T030113Z">
+        <seg>大英简明百科</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073514Z" creationid="62585" creationdate="20200427T073514Z">
+        <seg>HTML 格式的 OmegaT 标准版用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2648,6 +3832,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T031602Z" creationid="62585" creationdate="20200427T031602Z">
+        <seg>以下示例展示了实际使用中的第10版韦氏字典：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073632Z" creationid="62585" creationdate="20200427T073632Z">
+        <seg>以下教程可供在线查阅或下载：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -2664,6 +3864,14 @@ But others await</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111806Z" creationid="lsq" creationdate="20200426T111806Z">
         <seg>3分钟的间隔时间可以在 &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;首选项&lt;/g3&gt; &lt;g4&gt;保存和输出&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;中进行修改。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T063757Z" creationid="62585" creationdate="20200427T035852Z">
+        <seg>文件名必须与项目属性对话框中定义的译文语言的语言代码相对应（ &lt;g0&gt;项目 &gt; 属性&lt;/g0&gt; ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2724,10 +3932,58 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034814Z" creationid="62585" creationdate="20200427T034814Z">
+        <seg>随后选中的语言将会安装，并最终显示在拼写检查器窗口中（可能需要一段时间）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T064138Z" creationid="62585" creationdate="20200427T063644Z">
+        <seg>拼写检查使用译文语言代码来确定要使用的语言：如果译文语言是巴西葡萄牙语（PT_BR），存放词汇表的子文件夹必须包含两个名为&lt;e0&gt;pt_br.aff&lt;/e0&gt;和&lt;e1&gt;pt_br.dic&lt;/e1&gt;的词汇文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110030Z" creationid="lsq" creationdate="20200426T110030Z">
         <seg>对话框的标题反映了实际使用的文件（这取决于并发运行的 OmegaT 实例的数量）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073420Z" creationid="62585" creationdate="20200427T073420Z">
+        <seg>PDF 格式的 OmegaT 用户手册（{{ site.data.versions.standard.name }}）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034527Z" creationid="62585" creationdate="20200427T034527Z">
+        <seg>基本上有两种方法可以做到这一点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040312Z" creationid="62585" creationdate="20200427T040312Z">
+        <seg>并不需要指示 OmegaT 使用特定的拼写词典，它会根据项目的语言代码来使用正确的语言词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T032124Z" creationid="62585" creationdate="20200427T023638Z">
+        <seg>应该有三个文件，扩展名分别为&lt;e1&gt;dz，idx&lt;/e1&gt;和&lt;e2&gt;ifo&lt;/e2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2747,6 +4003,14 @@ You, victim of one</seg>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T072853Z" creationid="HUAWEI" creationdate="20200426T072853Z">
         <seg>世间三事确定无疑：
 死亡、税收、和找不到页面的问题。你，受害于其中之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074811Z" creationid="62585" creationdate="20200427T074811Z">
+        <seg>这些功能让 OmegaT 可用于翻译 XLIFF 转换过滤器可用的文件格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2823,10 +4087,42 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T072950Z" creationid="62585" creationdate="20200427T072950Z">
+        <seg>要从 OmegaT 中调出手册，只需选择“帮助 &gt; 用户手册”或按 F1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040612Z" creationid="62585" creationdate="20200427T040612Z">
+        <seg>要启用拼写检查器，选择&lt;g0&gt;选项 &gt; 拼写检查&lt;/g0&gt;，并勾选&lt;g1&gt;自动检查文字拼写&lt;/g1&gt;复选框(见上文)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113119Z" creationid="lsq" creationdate="20200426T113119Z">
         <seg>要找到最适合您的版本，请点击以下链接进入下载选择器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T033002Z" creationid="62585" creationdate="20200427T033002Z">
+        <seg>要安装拼写词典，按以下步骤操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T020801Z" creationid="62585" creationdate="20200427T020801Z">
+        <seg>要安装StarDict格式的必要文件，请按照以下步骤操作：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2855,6 +4151,22 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075056Z" creationid="62585" creationdate="20200427T075056Z">
+        <seg>培训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074815Z" creationid="62585" creationdate="20200427T074815Z">
+        <seg>培训视频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T073353Z" creationid="HUAWEI" creationdate="20200426T073353Z">
@@ -2879,10 +4191,34 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074441Z" creationid="62585" creationdate="20200427T074441Z">
+        <seg>翻译 NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074539Z" creationid="62585" creationdate="20200427T074539Z">
+        <seg>用 Rainbow 和 OmegaT 进行翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translation units are located in cells in the two last columns.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070348Z" creationid="HUAWEI" creationdate="20200426T070348Z">
         <seg>翻译单元位于最后两列的单元格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073528Z" creationid="62585" creationdate="20200427T073528Z">
+        <seg>教程</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,10 +4343,34 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T023513Z" creationid="62585" creationdate="20200427T023513Z">
+        <seg>使用untar实用程序（或其等价物，例如Windows中的&lt;f0&gt;winrar&lt;/f0&gt;）将其内容提取到项目文件夹“ Dictionary”中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User glossaries with recognition of inflected forms</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113059Z" creationid="lsq" creationdate="20200426T113059Z">
         <seg>带词形变化识别的用户词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073403Z" creationid="62585" creationdate="20200427T073403Z">
+        <seg>在线用户手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T072909Z" creationid="62585" creationdate="20200427T072909Z">
+        <seg>用户手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -3031,6 +4391,22 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040617Z" creationid="62585" creationdate="20200427T040617Z">
+        <seg>使用拼写检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T040252Z" creationid="62585" creationdate="20200427T040252Z">
+        <seg>使用拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Valter Mura - Translator EN &gt; IT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113211Z" creationid="lsq" creationdate="20200426T113211Z">
@@ -3039,10 +4415,50 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083602Z" creationid="62585" creationdate="20200427T083513Z">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T074937Z" creationid="62585" creationdate="20200427T074937Z">
+        <seg>视频 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075004Z" creationid="62585" creationdate="20200427T075004Z">
+        <seg>视频 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075021Z" creationid="62585" creationdate="20200427T075021Z">
+        <seg>视频 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113038Z" creationid="lsq" creationdate="20200426T113038Z">
         <seg>视频上传者：&lt;a0&gt;CATguruEN&lt;/a0&gt;（Dominique Pivard）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093000Z" creationid="62585" creationdate="20200427T093000Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,6 +4483,22 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064209Z" creationid="HUAWEI" creationdate="20200426T064209Z">
         <seg>网站经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T030011Z" creationid="62585" creationdate="20200427T030011Z">
+        <seg>韦氏修订足本词典 (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113314Z" creationid="lsq" creationdate="20200426T113314Z">
+        <seg>好吧，考虑学一下不？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3147,12 +4579,60 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073202Z" creationid="62585" creationdate="20200427T073120Z">
+        <seg>你也可以在不启动 OmegaT 的情况下调出附带的用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083735Z" creationid="62585" creationdate="20200427T040733Z">
+        <seg>此外，也可以指示拼写检查器忽略所有出现该拼写错误词汇的地方，或者将它添加到词典中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083713Z" creationid="62585" creationdate="20200427T034735Z">
+        <seg>可以用文件管理器从系统中其他位置手动复制文件，或使用 OmegaT 的 &lt;e0&gt;“安装新词典”&lt;/e0&gt;功能来提供可选择的词典列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071940Z" creationid="HUAWEI" creationdate="20200426T071940Z">
         <seg>可在以下文件中找到详细统计信息：
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T092948Z" creationid="62585" creationdate="20200427T092948Z">
+        <seg>也可以用偏爱的文件管理器将文件复制到项目的“source”文件夹，然后通过调用项目菜单中的重新载入项目命令来重新载入项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091021Z" creationid="62585" creationdate="20200427T091021Z">
+        <seg>可以尝试使用下列方法之一来解决此问题：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091556Z" creationid="62585" creationdate="20200427T091556Z">
+        <seg>您的项目不包含任何所支持格式的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3169,6 +4649,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113014Z" creationid="lsq" creationdate="20200426T113014Z">
         <seg>下载(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download#downloadTrunk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113300Z" creationid="lsq" creationdate="20200426T113300Z">
+        <seg>下载选择器</seg>
       </tuv>
     </tu>
     <tu>
@@ -3201,6 +4689,38 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113155Z" creationid="lsq" creationdate="20200426T113155Z">
         <seg>下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T030303Z" creationid="62585" creationdate="20200427T030303Z">
+        <seg>等等……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083614Z" creationid="62585" creationdate="20200427T083525Z">
+        <seg>Velior关于翻译和 翻译行业&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T083628Z" creationid="62585" creationdate="20200427T083628Z">
+        <seg>的企业博客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073905Z" creationid="62585" creationdate="20200427T073905Z">
+        <seg>助力译者：10 个 OmegaT 的小贴士</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
