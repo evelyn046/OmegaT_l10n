@@ -1,0 +1,878 @@
+hard drive	硬盘
+software	软件
+space	空格
+suitable version	适用版本
+information	信息
+feature	功能
+user manual	用户手册
+button	(-/+)按钮
+user manual	用户手册
+OmegaT	OmegaT
+default	默认
+verify	校验
+project	项目
+preference	偏好
+paypal account	PayPal账号
+certificate	证书
+third-party software	第三方软件
+installation type	安装类型
+window	窗口
+unrestricted access	无限制访问
+state	状态
+version	版本
+register	注册
+different version	不同版本
+update	更新
+something	一些
+introduction	介绍
+description	描述
+thesis	论文
+review	评论
+level	第一级菜单文本颜色
+project	项目
+output	输出
+input 	输入 
+entry	在集合中显示条目反应
+file	文件
+memory	记忆
+translation	翻译面板
+preview	预览
+omegat	OmegaT
+function	函数
+page	页
+translation memory 	翻译记忆 
+language	语言选择
+translator	翻译
+script	程序
+filter	展开
+philosophy	哲学
+format	格式
+documentation	到文档
+text	文字：
+open source	开放性
+contact	联系
+format	格式
+compile	编译
+source code	源代码
+source 	来源 
+compatibility	兼容性
+howto	教程
+encode	编码
+usage 	用途 
+next time	下次
+preference	偏好
+feild	领域
+built-in version	内置版本
+picker	选择器
+remote	远程
+process	过程
+	
+supplemental materia	补充材料
+tokenizer	分词器
+plural form	复数形式
+plural form	复数形式
+tokenizer	分词器
+download collection	下载收藏
+inserting source text	插入源文本
+current translation	当前翻译
+paradise	乐园
+work	工作
+language name	语言名称
+soul	灵魂
+supplemental material	补充材料
+supplemental material	补充材料
+whole search string	字符串搜索
+ring	环
+memory usage	内存使用
+drink	喝
+work	工作
+end rebase	结束重置
+wordar	字词
+reference	引用
+search window	搜索窗口
+unknown plugin type	未知插件类型
+loaded plugin	加载插件
+close tag	结束标记
+blank source	空源
+perception	认知
+console mode	控制台模式
+console mode	控制台模式
+drink	喝
+drink	喝
+whitelist	白名单
+subscription	订阅
+unknown plugin type	未知插件类型
+ephemeral page	临时页面
+work	工作
+update channel	更新通道
+warranty	保修书
+attempt	尝试
+ephemeral page	临时页面
+file manager	文件管理器
+file manager	文件管理器
+empty tag	空标签
+non-unique segment	非唯一段
+tag name	标签名称
+slide	滑动
+row	行
+orientation	方向
+reduce output	减少输出
+valid project file	有效项目文件
+effect	影响
+sample text	示例文本
+tag-validation	标签验证
+tag-validation	标签验证
+working tree	工作树
+text matching regular expression	文本匹配的正则表达式正则表达式
+load plugin	加载插件
+warranty	保修书
+port	端口
+then input	然后输入
+similarity	相似度
+attempt	尝试
+warranty	保修书
+processing	正在处理...
+ephemeral page	临时页面
+language name	语言名称
+re-download	重下载
+use custom	用户自定义
+text file	文本文件
+nts	nts
+control	控制
+text size	文本大小
+search thread	搜索线程
+picker	选择器
+new entry	新条目
+initializing marker	初始化标记
+target folder	目标文件夹
+updating glossary file	更新词汇表文件
+victim	受害者
+console-translate	控制台翻译
+software manufacturer	软件制造商
+ring	环
+ring	环
+distance	距离
+winter	冬天
+team mode project	团队模式项目
+team mode project	团队模式项目
+victim	受害者
+ring	环
+ring	环
+slide	滑动
+work	工作
+work	工作
+drop glossary	丢弃术语表
+ephemeral page	临时页面
+working tree	工作树
+reference	引用
+reference	引用
+rude error message	错误消息
+vanishing	消失
+row	行
+subscription	订阅
+text matching regular expression	文本匹配的正则表达式正则表达式
+winter	冬天
+winter	冬天
+file manager	文件管理器
+warranty	保修书
+spellchecking dictionary	拼写检查字典
+victim	受害者
+victim	受害者
+then input	然后输入
+then input	然后输入
+reduce output	减少输出
+language chain	语言链
+ument	ument
+fallback	缺陷
+whitelist	白名单
+start script	启动脚本
+witch case	女巫案件
+creator	创建人
+default translation	默认翻译
+whole search string	字符串搜索
+row	行
+text replacement	文本替代
+text replacement	文本替代
+subversion repository	子版本存储库
+pace	节奏
+pace	节奏
+width char	宽度
+width char	宽度
+u sequence	ü序列
+drop glossary	丢弃术语表
+drop glossary	丢弃术语表
+toggle	切换
+team mode project	团队模式项目
+single file	单文件
+tokenizer	分词器
+inserting source text	插入源文本
+paradise	乐园
+paradise	乐园
+memory usage	内存使用
+start script	启动脚本
+perception	认知
+work	工作
+warranty	保修书
+pace	节奏
+appearance	外观
+memory usage	内存使用
+txt file	txt文件
+see	顾客在你网站上看到的付款方式描述。
+error decoding user	误差解码用户
+error decoding user	误差解码用户
+txt file	txt文件
+ion folder	ino文件夹
+paradise	乐园
+perception	认知
+summary	摘要
+usage	用途
+event	事件
+connection	连接
+java	java
+external command	外部命令
+exit code	退出代码
+omegat	OmegaT
+omegat	OmegaT
+console-translate	控制台翻译
+hor	HOR
+o-populated status	状态
+modification info text	修改信息
+content	内容：
+running	运行
+content	内容：
+service type	服务类型
+decimal char	十进制字符
+decimal char	十进制字符
+unexpected char	意外的
+fallback	缺陷
+resegment	再分割
+inserting source text	插入源文本
+unrecoverable error	不可恢复的错误
+warranty	保修书
+project creating start	启动创建项目
+nth group	组
+comparison	比较
+uto-completion	自动补全
+modification info text	修改信息
+modification info text	修改信息
+target text	目标文本
+display template	显示模板
+building	建筑物
+tag order	标签排序
+style	风格
+style	风格
+attempt	尝试
+effect	影响
+creator	创建人
+current set	当前集
+team mode project	团队模式项目
+compress whitespace	压缩空白
+target folder	目标文件夹
+software manufacturer	软件制造商
+somebody	人
+search window	搜索窗口
+source file language	源文件语言
+lide	
+lide	
+content	内容：
+start omegat	启动omegat
+enable character table	启用字符表
+running omegat	运行OmegaT
+maximum number	最大数量
+unknown plugin type	未知插件类型
+file manager	文件管理器
+language attribute	语言属性
+project administrator	项目管理员
+start script	启动脚本
+tmx file	tmx文件
+creator	创建人
+use custom	用户自定义
+use custom	用户自定义
+distance	距离
+use custom	用户自定义
+software manufacturer	软件制造商
+perception	认知
+bookmark	书签
+current version	您当前版本
+dialog	对话
+usage information	用法信息
+next time	下次
+custom table	自定义表
+stdout	标准输出
+usage information	用法信息
+usage information	用法信息
+o-populated status	状态
+parse error	解析错误
+vanishing	消失
+drink	喝
+unauthorized request	未经授权的请求
+synchronisation	同步状态
+team team project tool	团队项目工具
+tokenizer	分词器
+ring	环
+ephemeral page	临时页面
+rude error message	错误消息
+preserve	节约
+text size	文本大小
+auto-text configuration	自动文本配置
+escape	规避
+escape	规避
+team mode project	团队模式项目
+text size	文本大小
+text size	文本大小
+language name	语言名称
+built-in version	内置版本
+picker	选择器
+victim	受害者
+console mode	控制台模式
+opening team project	打开团队项目
+target folder	目标文件夹
+running omegat	运行OmegaT
+unexpected char	意外的
+unexpected char	意外的
+unexpected char	意外的
+reduce output	减少输出
+warranty	保修书
+team mode project	团队模式项目
+winter	冬天
+winter	冬天
+tag name	标签名称
+tag name	标签名称
+u sequence	ü序列
+supplemental material	补充材料
+reflang	
+tokenizer	分词器
+change date	变更日期
+plural form	复数形式
+plural form	复数形式
+tokenizer	分词器
+download collection	下载收藏
+inserting source text	插入源文本
+current translation	当前翻译
+paradise	乐园
+work	工作
+language name	语言名称
+soul	灵魂
+supplemental material	补充材料
+supplemental material	补充材料
+whole search string	字符串搜索
+ring	环
+memory usage	内存使用
+drink	喝
+work	工作
+end rebase	结束重置
+wordar	字词
+reference	引用
+search window	搜索窗口
+unknown plugin type	未知插件类型
+loaded plugin	加载插件
+close tag	结束标记
+blank source	空源
+perception	认知
+console mode	控制台模式
+console mode	控制台模式
+drink	喝
+drink	喝
+whitelist	白名单
+subscription	订阅
+unknown plugin type	未知插件类型
+ephemeral page	临时页面
+work	工作
+update channel	更新通道
+warranty	保修书
+attempt	尝试
+ephemeral page	临时页面
+file manager	文件管理器
+file manager	文件管理器
+empty tag	空标签
+non-unique segment	非唯一段
+tag name	标签名称
+slide	滑动
+row	行
+orientation	方向
+reduce output	减少输出
+valid project file	有效项目文件
+effect	影响
+sample text	示例文本
+tag-validation	标签验证
+tag-validation	标签验证
+working tree	工作树
+text matching regular expression	文本匹配的正则表达式正则表达式
+load plugin	加载插件
+warranty	保修书
+port	端口
+then input	然后输入
+similarity	相似度
+attempt	尝试
+warranty	保修书
+processing	正在处理...
+ephemeral page	临时页面
+language name	语言名称
+re-download	重下载
+use custom	用户自定义
+text file	文本文件
+nts	nts
+control	控制
+text size	文本大小
+search thread	搜索线程
+picker	选择器
+new entry	新条目
+initializing marker	初始化标记
+target folder	目标文件夹
+updating glossary file	更新词汇表文件
+victim	受害者
+console-translate	控制台翻译
+software manufacturer	软件制造商
+ring	环
+ring	环
+distance	距离
+winter	冬天
+team mode project	团队模式项目
+team mode project	团队模式项目
+victim	受害者
+ring	环
+ring	环
+slide	滑动
+work	工作
+work	工作
+drop glossary	丢弃术语表
+ephemeral page	临时页面
+working tree	工作树
+reference	引用
+reference	引用
+rude error message	错误消息
+vanishing	消失
+row	行
+subscription	订阅
+text matching regular expression	文本匹配的正则表达式正则表达式
+winter	冬天
+winter	冬天
+file manager	文件管理器
+warranty	保修书
+spellchecking dictionary	拼写检查字典
+victim	受害者
+victim	受害者
+then input	然后输入
+then input	然后输入
+reduce output	减少输出
+language chain	语言链
+ument	ument
+fallback	缺陷
+whitelist	白名单
+start script	启动脚本
+witch case	女巫案件
+creator	创建人
+default translation	默认翻译
+whole search string	字符串搜索
+row	行
+text replacement	文本替代
+text replacement	文本替代
+subversion repository	子版本存储库
+pace	节奏
+pace	节奏
+width char	宽度
+width char	宽度
+u sequence	ü序列
+drop glossary	丢弃术语表
+drop glossary	丢弃术语表
+toggle	切换
+team mode project	团队模式项目
+single file	单文件
+tokenizer	分词器
+inserting source text	插入源文本
+paradise	乐园
+paradise	乐园
+memory usage	内存使用
+start script	启动脚本
+perception	认知
+work	工作
+warranty	保修书
+pace	节奏
+appearance	外观
+memory usage	内存使用
+txt file	txt文件
+see	顾客在你网站上看到的付款方式描述。
+error decoding user	误差解码用户
+error decoding user	误差解码用户
+txt file	txt文件
+ion folder	ino文件夹
+paradise	乐园
+perception	认知
+summary	摘要
+usage	用途
+event	事件
+connection	连接
+java	java
+external command	外部命令
+exit code	退出代码
+omegat	OmegaT
+omegat	OmegaT
+console-translate	控制台翻译
+hor	HOR
+o-populated status	状态
+modification info text	修改信息
+content	内容：
+running	运行
+content	内容：
+service type	服务类型
+decimal char	十进制字符
+decimal char	十进制字符
+unexpected char	意外的
+fallback	缺陷
+resegment	再分割
+inserting source text	插入源文本
+unrecoverable error	不可恢复的错误
+warranty	保修书
+project creating start	启动创建项目
+nth group	组
+comparison	比较
+uto-completion	自动补全
+modification info text	修改信息
+modification info text	修改信息
+target text	目标文本
+display template	显示模板
+building	建筑物
+tag order	标签排序
+style	风格
+style	风格
+attempt	尝试
+effect	影响
+creator	创建人
+current set	当前集
+team mode project	团队模式项目
+compress whitespace	压缩空白
+target folder	目标文件夹
+software manufacturer	软件制造商
+somebody	人
+search window	搜索窗口
+source file language	源文件语言
+lide	
+lide	
+content	内容：
+start omegat	启动omegat
+enable character table	启用字符表
+running omegat	运行OmegaT
+maximum number	最大数量
+unknown plugin type	未知插件类型
+file manager	文件管理器
+language attribute	语言属性
+project administrator	项目管理员
+start script	启动脚本
+tmx file	tmx文件
+creator	创建人
+use custom	用户自定义
+use custom	用户自定义
+distance	距离
+use custom	用户自定义
+software manufacturer	软件制造商
+perception	认知
+bookmark	书签
+current version	您当前版本
+warranty	保修书
+priority glossary	优先词汇
+hexadecimal value	十六进制值
+content attribute	内容属性
+content attribute	内容属性
+greek block	希腊块
+boundary	边界
+standard mode	标准模式
+search button	搜索按钮
+finder	取景器
+prof	教授
+predefined character	预定义字符
+export translation memory	导出翻译记忆
+several possible target	几种可能的目标
+left hand column	左栏
+non priority	非优先
+non-digit	非数字
+grey background	灰色背景
+segment information	段信息
+bottom half	下半部分
+source-target	源-目标
+such invariable text	这样的不变文本
+knowledge	知识
+segment information	段信息
+same installation folder	同一个安装文件夹
+following procedure	如下程序
+following procedure	如下程序
+msgstr	
+corresponding glossary entry	相应的词汇条目
+preventdataloss	预防数据丢失
+same check	同样的检查
+common phrase	常用短语
+several security	几个安全
+app location	应用的位置信息
+symbol	符号
+symbol	符号
+xxxx9xxxx9xxxxxxxx9xxx99xxxxx9xx9xxxxxxxxxx	xxxx9xxxx9xxxxxxxx9xxx99xxxxx9xx9xxxxxxxxxx
+following sequence	以下顺序
+corresponding glossary entry	相应的词汇条目
+using spellchecker	使用拼写检查
+new rule	新规则
+preventdataloss	预防数据丢失
+tmx2source	tmx2source
+home page	主页
+bundle	包
+tmx2source	tmx2source
+project-specific file	具体项目的相关文件
+fuzzy matching	模糊匹配
+text format	文本格式
+desk	书桌
+sign	标志
+powerful key search	强大的关键词搜索
+corresponding filter	相应的过滤器
+automatic process	自动处理
+line parameter	线条参数
+new rule	新规则
+marking	标记
+bottom half	下半部分
+powerful key search	强大的关键词搜索
+bottom half	下半部分
+loading translation memory	载入翻译记忆
+following list	下方的列表
+using notepad	使用笔记本
+top object	顶级对象
+text replace	文本替换
+optionsspellcheckmenuitem	选项拼写检查菜单
+upgrade	升级数据库
+width char	宽度
+preferred editing behavior	首选编辑行为
+tmx2source	tmx2source
+scrollbar	滚动条
+text replace	文本替换
+certain file	特定文件
+preferred editing behavior	首选编辑行为
+new segment break	新的段间间隔
+top entry	顶级条目
+upper table	上表
+new file filter pattern	新文件过滤模式
+new file filter pattern	新文件过滤模式
+targetlocalelcid
+preferred editing behavior	首选编辑行为
+new set	新集
+sign	标志
+corresponding project	相应项目
+language-country pair	语言-国家对
+language-country pair	语言-国家对
+preventdataloss	预防数据丢失
+master password	主密码
+tab-separated format	制表符分隔的格式
+such invariable text	这样的不变文本
+using notepad	使用笔记本
+fr	fr
+file-target-encoding	文件目标编码
+bottom panel	底部面板
+project-save	保存工程
+translatable text	可翻译文本
+source-target	源-目标
+segment information	段信息
+rule check box	规则复选框
+new rule	新规则
+new file filter pattern	新文件过滤模式
+new file filter pattern	新文件过滤模式
+gradlew assembledist	Gradle汇编表
+following command	以下命令
+single-word item	单个词项
+recognition	认识
+robust application	稳定的应用
+user country	用户所在国家
+translatable text	可翻译文本
+screen	屏幕
+specific folder	特定文件夹
+language-country pair	语言-国家对
+spellchecker setup	拼写检查器设置
+folder field	文件夹域
+same installation folder	同一个安装文件夹
+output format	输出格式
+preferred editing behavior	首选编辑行为
+editor window	编辑窗口
+source-target	源-目标
+corresponding filter	相应的过滤器
+xml-based standard	基于XML的标准
+powerful key search	强大的关键词搜索
+finder	取景器
+automatic saving	自动保存
+maximizing step	最大步长
+automatic process	自动处理
+left hand column	左栏
+several security	几个安全
+system-user-name	系统用户名
+partial deletion	部分删除
+upper half	上半部分
+newline	换行
+story	故事
+backslash character	反斜杠字符
+toolsshowstatisticsmatchesperfilemenuitem
+robust application	稳定的应用
+trip	行程
+reusetm	
+chinese translation	中文翻译
+top entry	顶级条目
+xy	XY
+xml-based standard	基于XML的标准
+following sequence	以下顺序
+import source	导入源文件
+upgrade	升级数据库
+control character	控制字符
+form-feed character	换页符
+newline	换行
+full syntax	完整语法
+line parameter	线条参数
+sort order	排列顺序
+opendocument	开放文档
+simple file	简单文件
+loading translation memory	载入翻译记忆
+flag	国旗
+project-specific file	具体项目的相关文件
+shortcut definition syntax	定义快捷键的语法
+snippet	片段
+text replace	文本替换
+chinese translation	中文翻译
+xml-based standard	基于XML的标准
+xml-based standard	基于XML的标准
+selected script	选定的脚本
+textual content	文本内容
+remote folder	远程目录
+translatable text	可翻译文本
+common glossary	常见术语
+x64 etc	
+reusetm	
+project-specific file	具体项目的相关文件
+project-specific file	具体项目的相关文件
+special syntax	特殊语法
+trip	行程
+output format	输出格式
+several possible target	几种可能的目标
+textual content	文本内容
+xxxx9xxxx9xxxxxxxx9xxx99xxxxx9xx9xxxxxxxxxx	xxxx9xxxx9xxxxxxxx9xxx99xxxxx9xx9xxxxxxxxxx
+source-target	源-目标
+shortcut definition syntax	定义快捷键的语法
+targetlanguage	目标语言
+scrollbar	滚动条
+new installation	新安装
+u00a	u00a
+upper-case letter	大写字母
+corresponding filter	相应的过滤器
+special target	特殊目标
+opinion	意见
+window resizing	窗口大小调整
+exact match	精确匹配
+exact match	精确匹配
+say	说
+xml-based standard	基于XML的标准
+cornerstone	房角石
+cornerstone	房角石
+say	说
+system-os-name	操作系统用户名
+xml-based standard	基于XML的标准
+screen	屏幕
+external command	外部命令
+bell	钟
+recipe	食谱
+text replace	文本替换
+bell	钟
+new source file	新源文件
+dict	字典
+dict	字典
+text format	文本格式
+selected portion	所选部分
+mac	MAC地址
+mac	MAC地址
+special syntax	特殊语法
+round-trip conversion	往返转换
+simple class	简单类
+excluding orphan	不包括孤儿
+project-specific file	具体项目的相关文件
+z	z
+line editor	行编辑器
+top object	顶级对象
+such invariable text	这样的不变文本
+upper table	上表
+language-country pair	语言-国家对
+marking	标记
+flag	国旗
+text replace	文本替换
+subtraction	减
+offering	裁判
+robust application	稳定的应用
+advantage	优势
+team work	团队协作
+mac	MAC地址
+suitable folder	合适的文件夹
+go-between	媒介
+tmx2source	tmx2source
+offering	裁判
+next time	下次
+minimum	最小
+predefined break	预定义的间隔
+screen	屏幕
+tmx2source	tmx2source
+snippet	片段
+bottom half	下半部分
+certain file	特定文件
+source-target	源-目标
+management	管理
+story	故事
+left hand column	左栏
+translation process	翻译过程
+pojavni meni	pojavni meni
+pojavni meni	pojavni meni
+targetlocalelcid	t
+targetlanguagecode	targetlanguagecode
+say	说
+new shortcut	新的快捷方式
+top entry	顶级条目
+finder	取景器
+repository mapping	库映射
+fuzzy mark	模糊标记
+dict	字典
+minimum	最小
+fuzzy mark	模糊标记
+single-word item	单个词项
+regular expression syntax	正则表达式语法
+segment marker	段标记
+export translation memory	导出翻译记忆
+b	b
+priority glossary	优先词汇
+uppercase letter	大写字母
+greek block	希腊块
+customization	自定义
+following	以下
+construct	建造
+p	p
+boundary	边界
+open project	打开项目
+segment marker	段标记
+text replace	文本替换
+team software versioning	团队软件版本控制
+new segment break	新的段间间隔
+left hand column	左栏
+segment source text	分隔源文本
+new file filter pattern	新文件过滤模式
+translation pane	翻译面板
+above description	上方说明
+structure-level segmentation	结构级别分隔
+translation process	翻译过程
+snippet	片段
+story	故事
+story	故事
+history completion	完成历史
+majority	多数
+automatic process	自动处理
+line parameter	线条参数
+pattern click	模式点击
+other column	其他列
+bottom panel	底部面板
+work	工作
+program	程序
+program	程序
+program	程序
+work	工作
+work	工作
+program	程序
+program	程序
+work	工作
+work	工作
+program	程序
+program	程序
+
