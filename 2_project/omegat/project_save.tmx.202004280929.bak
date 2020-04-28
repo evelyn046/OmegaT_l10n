@@ -78,14 +78,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&amp;Browse Online</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014514Z" creationid="HUAWEI" creationdate="20200428T014514Z">
-        <seg>在线浏览(&amp;B)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090757Z" creationid="62585" creationdate="20200427T090757Z">
@@ -382,14 +374,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&amp;Undo Changes</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014458Z" creationid="HUAWEI" creationdate="20200428T014458Z">
-        <seg>撤销更改(&amp;U)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112922Z" creationid="lsq" creationdate="20200426T112922Z">
@@ -502,14 +486,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014140Z" creationid="HUAWEI" creationdate="20200428T014140Z">
-        <seg>&lt;html&gt;词汇：&lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;词汇表：&lt;br&gt;{1}&lt;/html&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113158Z" creationid="lsq" creationdate="20200426T113158Z">
@@ -538,14 +514,6 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113118Z" creationid="lsq" creationdate="20200426T113118Z">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 有多种不同版本可供选择，以满足各种用户需求。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A restart is required in order to apply these changes</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014505Z" creationid="HUAWEI" creationdate="20200428T014505Z">
-        <seg>需要重新启动才能应用这些更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,14 +1106,6 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Confirm:</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014311Z" creationid="HUAWEI" creationdate="20200428T014311Z">
-        <seg>确认：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001706Z" creationid="62585" creationdate="20200428T001706Z">
@@ -1450,14 +1410,6 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Don't ask before checking issues</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014229Z" creationid="HUAWEI" creationdate="20200428T014229Z">
-        <seg>检查问题之前不要询问</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113246Z" creationid="lsq" creationdate="20200426T113246Z">
@@ -1602,14 +1554,6 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T063749Z" creationid="HUAWEI" creationdate="20200426T063749Z">
         <seg>英语版本译者</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Enter your master password.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014258Z" creationid="HUAWEI" creationdate="20200428T014258Z">
-        <seg>输入您的主密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,14 +1922,6 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>I Understand; Do It Anyway</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014332Z" creationid="HUAWEI" creationdate="20200428T014332Z">
-        <seg>我了解，我就要这么做</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113215Z" creationid="lsq" creationdate="20200426T113215Z">
@@ -2006,14 +1942,6 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104608Z" creationid="lsq" creationdate="20200426T104608Z">
         <seg>如果&lt;l0&gt;自动在词典中搜索&lt;/l0&gt; 未被启用，则此功能可让您在词典中查找所选单词。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014208Z" creationid="HUAWEI" creationdate="20200428T014208Z">
-        <seg>如果问题检查很慢，请尝试禁用某些可选检查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,14 +2586,6 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Master Password</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014235Z" creationid="HUAWEI" creationdate="20200428T014235Z">
-        <seg>主密码</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112842Z" creationid="lsq" creationdate="20200426T112842Z">
@@ -2994,14 +2914,6 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111740Z" creationid="lsq" creationdate="20200426T111740Z">
         <seg>OmegaT 每 3 分钟自动保存一次翻译，在关闭项目或退出 OmegaT 前也会自动保存。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014327Z" creationid="HUAWEI" creationdate="20200428T014327Z">
-        <seg>OmegaT 可以生成并存储主密码，因此您不必每次都输入密码，但这样做的安全性要低得多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,14 +3258,6 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Password:</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014308Z" creationid="HUAWEI" creationdate="20200428T014308Z">
-        <seg>密码：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034512Z" creationid="62585" creationdate="20200427T034512Z">
@@ -3396,22 +3300,6 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Please double-check.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014321Z" creationid="HUAWEI" creationdate="20200428T014321Z">
-        <seg>请仔细检查。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Please enter your password again for confirmation.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014317Z" creationid="HUAWEI" creationdate="20200428T014317Z">
-        <seg>请再次输入您的密码进行确认。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T093121Z" creationid="62585" creationdate="20200427T093121Z">
@@ -3420,34 +3308,10 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Plugins</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014511Z" creationid="HUAWEI" creationdate="20200428T014511Z">
-        <seg>插件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113109Z" creationid="lsq" creationdate="20200426T113109Z">
         <seg>强大的工具</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Preferences</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014336Z" creationid="HUAWEI" creationdate="20200428T014336Z">
-        <seg>首选项</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Preferences - {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014448Z" creationid="HUAWEI" creationdate="20200428T014448Z">
-        <seg>首选项 - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3808,14 +3672,6 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Restore &amp;Defaults</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014501Z" creationid="HUAWEI" creationdate="20200428T014501Z">
-        <seg>恢复默认值(&amp;D)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090925Z" creationid="62585" creationdate="20200427T090925Z">
@@ -3912,14 +3768,6 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Search ({0})</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014451Z" creationid="HUAWEI" creationdate="20200428T014451Z">
-        <seg>搜索({0})</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104528Z" creationid="lsq" creationdate="20200426T104528Z">
@@ -4008,34 +3856,10 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Select Issue Types</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014153Z" creationid="HUAWEI" creationdate="20200428T014153Z">
-        <seg>选择问题类型</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Select Match</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104711Z" creationid="lsq" creationdate="20200426T104711Z">
         <seg>选择匹配</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Select a Category</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014454Z" creationid="HUAWEI" creationdate="20200428T014454Z">
-        <seg>选择类别</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Select issue types to check.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014157Z" creationid="HUAWEI" creationdate="20200428T014157Z">
-        <seg>选择要检查的问题类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,22 +3912,6 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Set My Own Password</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014330Z" creationid="HUAWEI" creationdate="20200428T014330Z">
-        <seg>设置我自己的密码</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Set a master password to protect your private data.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014238Z" creationid="HUAWEI" creationdate="20200428T014238Z">
-        <seg>设置主密码以保护您的私人数据。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104720Z" creationid="lsq" creationdate="20200426T104720Z">
@@ -4148,14 +3956,6 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T064334Z" creationid="HUAWEI" creationdate="20200426T064334Z">
         <seg>项目启动以来，得到了许多贡献者的支持，人数太多在此无法全部列出，但我们非常感激他们的帮助。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Skip</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014324Z" creationid="HUAWEI" creationdate="20200428T014324Z">
-        <seg>跳过</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,14 +4168,6 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The current project must be reloaded in order to apply these changes</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014508Z" creationid="HUAWEI" creationdate="20200428T014508Z">
-        <seg>必须重新加载当前项目才能应用这些更改</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The documents are opened by the application chosen by the operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112138Z" creationid="lsq" creationdate="20200426T112138Z">
@@ -4460,30 +4252,6 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The password cannot be empty.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014314Z" creationid="HUAWEI" creationdate="20200428T014314Z">
-        <seg>密码不能为空。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The password you entered did not match.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014304Z" creationid="HUAWEI" creationdate="20200428T014304Z">
-        <seg>您输入的密码不匹配。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The passwords don't match.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014319Z" creationid="HUAWEI" creationdate="20200428T014319Z">
-        <seg>两次密码不一致。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113202Z" creationid="lsq" creationdate="20200426T113202Z">
@@ -4560,14 +4328,6 @@ But others await</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034527Z" creationid="62585" creationdate="20200427T034527Z">
         <seg>基本上有两种方法可以做到这一点。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>There are many plugins available for OmegaT online.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014525Z" creationid="HUAWEI" creationdate="20200428T014525Z">
-        <seg>线上有很多 OmegaT 插件可供使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,14 +5025,6 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091021Z" creationid="62585" creationdate="20200427T091021Z">
         <seg>可以尝试使用下列方法之一来解决此问题：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200428T014242Z" creationid="HUAWEI" creationdate="20200428T014242Z">
-        <seg>每次启动 OmegaT 时，系统都会提示您输入此密码。</seg>
       </tuv>
     </tu>
     <tu>
