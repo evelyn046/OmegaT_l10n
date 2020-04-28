@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001726Z" creationid="62585" creationdate="20200428T001726Z">
+        <seg>编辑(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090913Z" creationid="62585" creationdate="20200427T090913Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T090943Z" creationid="62585" creationdate="20200427T090943Z">
         <seg>替换下一个(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001312Z" creationid="62585" creationdate="20200428T001312Z">
+        <seg>重置主密码(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001428Z" creationid="62585" creationdate="20200428T001428Z">
+        <seg>仅限ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T110024Z" creationid="lsq" creationdate="20200426T110024Z">
@@ -594,6 +618,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T065320Z" creationid="HUAWEI" creationdate="20200426T065320Z">
         <seg>执行对齐操作可以从已经翻译过的单语言文档创建双语翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001352Z" creationid="62585" creationdate="20200428T001352Z">
+        <seg>所有由主密码保护的首选项都将被重置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +702,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001343Z" creationid="62585" creationdate="20200428T001343Z">
+        <seg>你确定要重置主密码吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112914Z" creationid="lsq" creationdate="20200426T112914Z">
@@ -742,6 +782,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T075032Z" creationid="62585" creationdate="20200427T075032Z">
         <seg>书籍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001435Z" creationid="62585" creationdate="20200428T001435Z">
+        <seg>两者</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +946,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001412Z" creationid="62585" creationdate="20200428T001412Z">
+        <seg>清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070146Z" creationid="HUAWEI" creationdate="20200426T070146Z">
@@ -954,6 +1010,62 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001600Z" creationid="62585" creationdate="20200428T001600Z">
+        <seg>命令分隔符为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001543Z" creationid="62585" creationdate="20200428T001543Z">
+        <seg>命令未包含“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001539Z" creationid="62585" creationdate="20200428T001539Z">
+        <seg>命令缺少命令字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001557Z" creationid="62585" creationdate="20200428T001557Z">
+        <seg>命令中缺少分隔符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001552Z" creationid="62585" creationdate="20200428T001552Z">
+        <seg>命令中缺少编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001547Z" creationid="62585" creationdate="20200428T001547Z">
+        <seg>命令中缺少目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001608Z" creationid="62585" creationdate="20200428T001608Z">
+        <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T111807Z" creationid="lsq" creationdate="20200426T111807Z">
@@ -990,6 +1102,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091001Z" creationid="62585" creationdate="20200427T091001Z">
         <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001706Z" creationid="62585" creationdate="20200428T001706Z">
+        <seg>上下文菜单优先级：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1270,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T091541Z" creationid="62585" creationdate="20200427T091541Z">
         <seg>虚拟机当前内存使用量：{0}MB；其中可用内存：{1}MB；最大可用：{2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001416Z" creationid="62585" creationdate="20200428T001416Z">
+        <seg>默认</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,6 +1534,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001702Z" creationid="62585" creationdate="20200428T001702Z">
+        <seg>允许每个项目自有命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T071701Z" creationid="HUAWEI" creationdate="20200426T071701Z">
@@ -1458,6 +1594,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001420Z" creationid="62585" creationdate="20200428T001420Z">
+        <seg>转义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -1482,6 +1626,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104522Z" creationid="lsq" creationdate="20200426T104522Z">
         <seg>导出所选部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001612Z" creationid="62585" creationdate="20200428T001612Z">
+        <seg>外部搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1802,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T105043Z" creationid="lsq" creationdate="20200426T105043Z">
         <seg>转到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001450Z" creationid="62585" creationdate="20200428T001450Z">
+        <seg>前往 首选项 &gt; 外部搜索 来启用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,6 +2194,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001656Z" creationid="62585" creationdate="20200428T001656Z">
+        <seg>在编辑器中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034518Z" creationid="62585" creationdate="20200427T034409Z">
@@ -2238,6 +2406,38 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113229Z" creationid="lsq" creationdate="20200426T113229Z">
         <seg>这真的会让人大开眼界！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001502Z" creationid="62585" creationdate="20200428T001502Z">
+        <seg>项目既没有网址也没有命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001511Z" creationid="62585" creationdate="20200428T001511Z">
+        <seg>项目缺少范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001457Z" creationid="62585" creationdate="20200428T001457Z">
+        <seg>缺少项目名称或名称为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001623Z" creationid="62585" creationdate="20200428T001623Z">
+        <seg>项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2710,22 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001626Z" creationid="62585" creationdate="20200428T001626Z">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001506Z" creationid="62585" creationdate="20200428T001506Z">
+        <seg>名称：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigate to and select the folder you created for dictionaries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T034441Z" creationid="62585" creationdate="20200427T034441Z">
@@ -2578,6 +2794,30 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104454Z" creationid="lsq" creationdate="20200426T103847Z">
         <seg>如果未激活任何机器翻译服务（在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;机器翻译&lt;/g2&gt; &lt;/m0&gt;中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001431Z" creationid="62585" creationdate="20200428T001431Z">
+        <seg>仅限非 ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001424Z" creationid="62585" creationdate="20200428T001424Z">
+        <seg>无</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001326Z" creationid="62585" creationdate="20200428T001326Z">
+        <seg>未设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -3084,6 +3324,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001409Z" creationid="62585" creationdate="20200428T001409Z">
+        <seg>按下要分配的键盘快捷键，然后单击“确定”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="HUAWEI" changedate="20200426T070457Z" creationid="HUAWEI" creationdate="20200426T070457Z">
@@ -3208,6 +3456,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T112058Z" creationid="lsq" creationdate="20200426T112058Z">
         <seg>项目文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001619Z" creationid="62585" creationdate="20200428T001619Z">
+        <seg>项目专用外部搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001442Z" creationid="62585" creationdate="20200428T001442Z">
+        <seg>出于安全原因禁用项目命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3396,6 +3660,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104506Z" creationid="lsq" creationdate="20200426T104506Z">
         <seg>用原文替换掉整个目标片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001331Z" creationid="62585" creationdate="20200428T001331Z">
+        <seg>重置主密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,10 +3896,42 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001323Z" creationid="62585" creationdate="20200428T001323Z">
+        <seg>已设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001318Z" creationid="62585" creationdate="20200428T001318Z">
+        <seg>设置并存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T104720Z" creationid="lsq" creationdate="20200426T104720Z">
         <seg>设置为空译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001652Z" creationid="62585" creationdate="20200428T001652Z">
+        <seg>缩略词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001356Z" creationid="62585" creationdate="20200428T001356Z">
+        <seg>快捷键：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3724,6 +4028,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lsq" changedate="20200426T113309Z" creationid="lsq" creationdate="20200426T113309Z">
         <seg>已经有用 Javascript、Groovy 和 Tcl/Tk 等语言所编写的此类辅助性代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001629Z" creationid="62585" creationdate="20200428T001629Z">
+        <seg>摘要</seg>
       </tuv>
     </tu>
     <tu>
@@ -4267,6 +4579,46 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="62585" changedate="20200427T073528Z" creationid="62585" creationdate="20200427T073528Z">
         <seg>教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001524Z" creationid="62585" creationdate="20200428T001524Z">
+        <seg>网址未包含“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001519Z" creationid="62585" creationdate="20200428T001519Z">
+        <seg>网址中缺少 URL 字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001535Z" creationid="62585" creationdate="20200428T001535Z">
+        <seg>网址缺少编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001531Z" creationid="62585" creationdate="20200428T001531Z">
+        <seg>网址中缺少目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62585" changedate="20200428T001603Z" creationid="62585" creationdate="20200428T001603Z">
+        <seg>网址</seg>
       </tuv>
     </tu>
     <tu>
